@@ -1,0 +1,2003 @@
+# This is a dirfile format file.
+# It was written using version 0.10.0 of the GetData Library.
+# Written on Fri 04 Feb 2022 13:00:52 GMT UTC by sam.
+
+/VERSION 10
+/ENDIAN little
+/PROTECT none
+/ENCODING none
+x_0000 LINCOM 1 delta_f_0000 1.12510657747853e-09 0
+x_0001 LINCOM 1 delta_f_0001 1.11911589844023e-09 0
+x_0002 LINCOM 1 delta_f_0002 1.11336296502475e-09 0
+x_0003 LINCOM 1 delta_f_0003 1.10834505898907e-09 0
+x_0004 LINCOM 1 delta_f_0004 1.104819776274e-09 0
+x_0005 LINCOM 1 delta_f_0005 1.10059715994342e-09 0
+x_0006 LINCOM 1 delta_f_0006 1.09651471085849e-09 0
+x_0007 LINCOM 1 delta_f_0007 1.09594670959125e-09 0
+x_0008 LINCOM 1 delta_f_0008 1.08891686800286e-09 0
+x_0009 LINCOM 1 delta_f_0009 1.08538043432176e-09 0
+x_0010 LINCOM 1 delta_f_0010 1.07837603309266e-09 0
+x_0011 LINCOM 1 delta_f_0011 1.07748642619639e-09 0
+x_0012 LINCOM 1 delta_f_0012 1.07023858795396e-09 0
+x_0013 LINCOM 1 delta_f_0013 1.06714243433531e-09 0
+x_0014 LINCOM 1 delta_f_0014 1.06441808346535e-09 0
+x_0015 LINCOM 1 delta_f_0015 1.05910728839574e-09 0
+x_0016 LINCOM 1 delta_f_0016 1.05365403928154e-09 0
+x_0017 LINCOM 1 delta_f_0017 1.05063140485014e-09 0
+x_0018 LINCOM 1 delta_f_0018 1.04591398991674e-09 0
+x_0019 LINCOM 1 delta_f_0019 1.04205251781869e-09 0
+x_0020 LINCOM 1 delta_f_0020 1.03703763717456e-09 0
+x_0021 LINCOM 1 delta_f_0021 1.02921192920952e-09 0
+x_0022 LINCOM 1 delta_f_0022 1.02841395268492e-09 0
+x_0023 LINCOM 1 delta_f_0023 1.02582185962269e-09 0
+x_0024 LINCOM 1 delta_f_0024 1.02518511399177e-09 0
+x_0025 LINCOM 1 delta_f_0025 1.02086390608052e-09 0
+x_0026 LINCOM 1 delta_f_0026 1.01459269651789e-09 0
+x_0027 LINCOM 1 delta_f_0027 1.01256610355862e-09 0
+x_0028 LINCOM 1 delta_f_0028 1.00546327898857e-09 0
+x_0029 LINCOM 1 delta_f_0029 1.00508036716842e-09 0
+x_0030 LINCOM 1 delta_f_0030 9.99789106985245e-10 0
+x_0031 LINCOM 1 delta_f_0031 9.99000999000999e-10 0
+x_0032 LINCOM 1 delta_f_0032 9.96671273675809e-10 0
+x_0033 LINCOM 1 delta_f_0033 9.90604733233241e-10 0
+x_0034 LINCOM 1 delta_f_0034 9.87776268675145e-10 0
+x_0035 LINCOM 1 delta_f_0035 9.82891544061185e-10 0
+x_0036 LINCOM 1 delta_f_0036 9.81358030843776e-10 0
+x_0037 LINCOM 1 delta_f_0037 9.7613427947182e-10 0
+x_0038 LINCOM 1 delta_f_0038 9.73661690596178e-10 0
+x_0039 LINCOM 1 delta_f_0039 9.72766342284557e-10 0
+x_0040 LINCOM 1 delta_f_0040 9.69069277097032e-10 0
+x_0041 LINCOM 1 delta_f_0041 9.66369583517359e-10 0
+x_0042 LINCOM 1 delta_f_0042 9.63362133847127e-10 0
+x_0043 LINCOM 1 delta_f_0043 9.57442431903777e-10 0
+x_0044 LINCOM 1 delta_f_0044 9.56140776789683e-10 0
+x_0045 LINCOM 1 delta_f_0045 9.5420558657552e-10 0
+x_0046 LINCOM 1 delta_f_0046 9.53611991670795e-10 0
+x_0047 LINCOM 1 delta_f_0047 9.48893205035065e-10 0
+x_0048 LINCOM 1 delta_f_0048 9.47502442779735e-10 0
+x_0049 LINCOM 1 delta_f_0049 9.44677333648226e-10 0
+x_0050 LINCOM 1 delta_f_0050 9.43059121702516e-10 0
+x_0051 LINCOM 1 delta_f_0051 9.41882882750298e-10 0
+x_0052 LINCOM 1 delta_f_0052 9.39749571422803e-10 0
+x_0053 LINCOM 1 delta_f_0053 9.3501294773789e-10 0
+x_0054 LINCOM 1 delta_f_0054 9.34487327840787e-10 0
+x_0055 LINCOM 1 delta_f_0055 9.3193252226081e-10 0
+x_0056 LINCOM 1 delta_f_0056 9.28697103263137e-10 0
+x_0057 LINCOM 1 delta_f_0057 9.25136240766707e-10 0
+x_0058 LINCOM 1 delta_f_0058 9.23094674897594e-10 0
+x_0059 LINCOM 1 delta_f_0059 9.19368508755549e-10 0
+x_0060 LINCOM 1 delta_f_0060 9.1894278504277e-10 0
+x_0061 LINCOM 1 delta_f_0061 9.18201186488096e-10 0
+x_0062 LINCOM 1 delta_f_0062 1.65053739176408e-09 0
+x_0063 LINCOM 1 delta_f_0063 1.62913089684929e-09 0
+x_0064 LINCOM 1 delta_f_0064 1.62386060171647e-09 0
+x_0065 LINCOM 1 delta_f_0065 1.62270776681182e-09 0
+x_0066 LINCOM 1 delta_f_0066 1.62212168447199e-09 0
+x_0067 LINCOM 1 delta_f_0067 1.60379899887859e-09 0
+x_0068 LINCOM 1 delta_f_0068 1.59801247198797e-09 0
+x_0069 LINCOM 1 delta_f_0069 1.59604977680241e-09 0
+x_0070 LINCOM 1 delta_f_0070 1.57372856870616e-09 0
+x_0071 LINCOM 1 delta_f_0071 1.55959669804137e-09 0
+x_0072 LINCOM 1 delta_f_0072 1.55524774610581e-09 0
+x_0073 LINCOM 1 delta_f_0073 1.54935544392665e-09 0
+x_0074 LINCOM 1 delta_f_0074 1.53726978484228e-09 0
+x_0075 LINCOM 1 delta_f_0075 1.53133860528551e-09 0
+x_0076 LINCOM 1 delta_f_0076 1.52914332134708e-09 0
+x_0077 LINCOM 1 delta_f_0077 1.52549846854255e-09 0
+x_0078 LINCOM 1 delta_f_0078 1.52137351502653e-09 0
+x_0079 LINCOM 1 delta_f_0079 1.51319017135697e-09 0
+x_0080 LINCOM 1 delta_f_0080 1.49805720705959e-09 0
+x_0081 LINCOM 1 delta_f_0081 1.49251990998239e-09 0
+x_0082 LINCOM 1 delta_f_0082 1.48987929649762e-09 0
+x_0083 LINCOM 1 delta_f_0083 1.48192743186607e-09 0
+x_0084 LINCOM 1 delta_f_0084 1.47201729620323e-09 0
+x_0085 LINCOM 1 delta_f_0085 1.46849616814281e-09 0
+x_0086 LINCOM 1 delta_f_0086 1.46413721710982e-09 0
+x_0087 LINCOM 1 delta_f_0087 1.4589471644564e-09 0
+x_0088 LINCOM 1 delta_f_0088 1.45256468452111e-09 0
+x_0089 LINCOM 1 delta_f_0089 1.44031416852801e-09 0
+x_0090 LINCOM 1 delta_f_0090 1.4378872044889e-09 0
+x_0091 LINCOM 1 delta_f_0091 1.43480868283442e-09 0
+x_0092 LINCOM 1 delta_f_0092 1.41939919493452e-09 0
+x_0093 LINCOM 1 delta_f_0093 1.41356804452739e-09 0
+x_0094 LINCOM 1 delta_f_0094 1.41356804452739e-09 0
+x_0095 LINCOM 1 delta_f_0095 1.40601400521763e-09 0
+x_0096 LINCOM 1 delta_f_0096 1.38798525265669e-09 0
+x_0097 LINCOM 1 delta_f_0097 1.38702266915175e-09 0
+x_0098 LINCOM 1 delta_f_0098 1.38123782649279e-09 0
+x_0099 LINCOM 1 delta_f_0099 1.37147755276974e-09 0
+x_0100 LINCOM 1 delta_f_0100 1.36851558824787e-09 0
+x_0101 LINCOM 1 delta_f_0101 1.3664629426993e-09 0
+x_0102 LINCOM 1 delta_f_0102 1.35509962099557e-09 0
+x_0103 LINCOM 1 delta_f_0103 1.34617103734047e-09 0
+x_0104 LINCOM 1 delta_f_0104 1.34338070149661e-09 0
+x_0105 LINCOM 1 delta_f_0105 1.33937447026693e-09 0
+x_0106 LINCOM 1 delta_f_0106 1.33707994275626e-09 0
+x_0107 LINCOM 1 delta_f_0107 1.32811770443156e-09 0
+x_0108 LINCOM 1 delta_f_0108 1.32437312143363e-09 0
+x_0109 LINCOM 1 delta_f_0109 1.31595180326521e-09 0
+x_0110 LINCOM 1 delta_f_0110 1.3146340336156e-09 0
+x_0111 LINCOM 1 delta_f_0111 1.30949640655771e-09 0
+x_0112 LINCOM 1 delta_f_0112 1.30684254589263e-09 0
+x_0113 LINCOM 1 delta_f_0113 1.30684254589263e-09 0
+x_0114 LINCOM 1 delta_f_0114 1.29933409127822e-09 0
+x_0115 LINCOM 1 delta_f_0115 1.29157900578688e-09 0
+x_0116 LINCOM 1 delta_f_0116 1.29029656660148e-09 0
+x_0117 LINCOM 1 delta_f_0117 1.28830311356694e-09 0
+x_0118 LINCOM 1 delta_f_0118 1.27251759653239e-09 0
+x_0119 LINCOM 1 delta_f_0119 1.2715063376644e-09 0
+x_0120 LINCOM 1 delta_f_0120 1.26606693339796e-09 0
+x_0121 LINCOM 1 delta_f_0121 1.25763917546032e-09 0
+x_0122 LINCOM 1 delta_f_0122 1.25418265014673e-09 0
+x_0123 LINCOM 1 delta_f_0123 1.24060460089847e-09 0
+x_0124 LINCOM 1 delta_f_0124 1.23433574896697e-09 0
+x_0125 LINCOM 1 delta_f_0125 1.23338424255272e-09 0
+x_0126 LINCOM 1 delta_f_0126 1.22675279493581e-09 0
+x_0127 LINCOM 1 delta_f_0127 1.22040750169236e-09 0
+x_0128 LINCOM 1 delta_f_0128 1.21930889952609e-09 0
+x_0129 LINCOM 1 delta_f_0129 1.20601121213549e-09 0
+x_0130 LINCOM 1 delta_f_0130 1.20466619923108e-09 0
+x_0131 LINCOM 1 delta_f_0131 1.20343731783908e-09 0
+x_0132 LINCOM 1 delta_f_0132 1.18203855477317e-09 0
+delta_f_0000 LINCOM 2 _cal_i0_sub_i_0000 _cal_didf_mult_0000<0> 0 _cal_q0_sub_q_0000 _cal_dqdf_mult_0000<0> 0
+delta_f_0001 LINCOM 2 _cal_i0_sub_i_0001 _cal_didf_mult_0001<0> 0 _cal_q0_sub_q_0001 _cal_dqdf_mult_0001<0> 0
+delta_f_0002 LINCOM 2 _cal_i0_sub_i_0002 _cal_didf_mult_0002<0> 0 _cal_q0_sub_q_0002 _cal_dqdf_mult_0002<0> 0
+delta_f_0003 LINCOM 2 _cal_i0_sub_i_0003 _cal_didf_mult_0003<0> 0 _cal_q0_sub_q_0003 _cal_dqdf_mult_0003<0> 0
+delta_f_0004 LINCOM 2 _cal_i0_sub_i_0004 _cal_didf_mult_0004<0> 0 _cal_q0_sub_q_0004 _cal_dqdf_mult_0004<0> 0
+delta_f_0005 LINCOM 2 _cal_i0_sub_i_0005 _cal_didf_mult_0005<0> 0 _cal_q0_sub_q_0005 _cal_dqdf_mult_0005<0> 0
+delta_f_0006 LINCOM 2 _cal_i0_sub_i_0006 _cal_didf_mult_0006<0> 0 _cal_q0_sub_q_0006 _cal_dqdf_mult_0006<0> 0
+delta_f_0007 LINCOM 2 _cal_i0_sub_i_0007 _cal_didf_mult_0007<0> 0 _cal_q0_sub_q_0007 _cal_dqdf_mult_0007<0> 0
+delta_f_0008 LINCOM 2 _cal_i0_sub_i_0008 _cal_didf_mult_0008<0> 0 _cal_q0_sub_q_0008 _cal_dqdf_mult_0008<0> 0
+delta_f_0009 LINCOM 2 _cal_i0_sub_i_0009 _cal_didf_mult_0009<0> 0 _cal_q0_sub_q_0009 _cal_dqdf_mult_0009<0> 0
+delta_f_0010 LINCOM 2 _cal_i0_sub_i_0010 _cal_didf_mult_0010<0> 0 _cal_q0_sub_q_0010 _cal_dqdf_mult_0010<0> 0
+delta_f_0011 LINCOM 2 _cal_i0_sub_i_0011 _cal_didf_mult_0011<0> 0 _cal_q0_sub_q_0011 _cal_dqdf_mult_0011<0> 0
+delta_f_0012 LINCOM 2 _cal_i0_sub_i_0012 _cal_didf_mult_0012<0> 0 _cal_q0_sub_q_0012 _cal_dqdf_mult_0012<0> 0
+delta_f_0013 LINCOM 2 _cal_i0_sub_i_0013 _cal_didf_mult_0013<0> 0 _cal_q0_sub_q_0013 _cal_dqdf_mult_0013<0> 0
+delta_f_0014 LINCOM 2 _cal_i0_sub_i_0014 _cal_didf_mult_0014<0> 0 _cal_q0_sub_q_0014 _cal_dqdf_mult_0014<0> 0
+delta_f_0015 LINCOM 2 _cal_i0_sub_i_0015 _cal_didf_mult_0015<0> 0 _cal_q0_sub_q_0015 _cal_dqdf_mult_0015<0> 0
+delta_f_0016 LINCOM 2 _cal_i0_sub_i_0016 _cal_didf_mult_0016<0> 0 _cal_q0_sub_q_0016 _cal_dqdf_mult_0016<0> 0
+delta_f_0017 LINCOM 2 _cal_i0_sub_i_0017 _cal_didf_mult_0017<0> 0 _cal_q0_sub_q_0017 _cal_dqdf_mult_0017<0> 0
+delta_f_0018 LINCOM 2 _cal_i0_sub_i_0018 _cal_didf_mult_0018<0> 0 _cal_q0_sub_q_0018 _cal_dqdf_mult_0018<0> 0
+delta_f_0019 LINCOM 2 _cal_i0_sub_i_0019 _cal_didf_mult_0019<0> 0 _cal_q0_sub_q_0019 _cal_dqdf_mult_0019<0> 0
+delta_f_0020 LINCOM 2 _cal_i0_sub_i_0020 _cal_didf_mult_0020<0> 0 _cal_q0_sub_q_0020 _cal_dqdf_mult_0020<0> 0
+delta_f_0021 LINCOM 2 _cal_i0_sub_i_0021 _cal_didf_mult_0021<0> 0 _cal_q0_sub_q_0021 _cal_dqdf_mult_0021<0> 0
+delta_f_0022 LINCOM 2 _cal_i0_sub_i_0022 _cal_didf_mult_0022<0> 0 _cal_q0_sub_q_0022 _cal_dqdf_mult_0022<0> 0
+delta_f_0023 LINCOM 2 _cal_i0_sub_i_0023 _cal_didf_mult_0023<0> 0 _cal_q0_sub_q_0023 _cal_dqdf_mult_0023<0> 0
+delta_f_0024 LINCOM 2 _cal_i0_sub_i_0024 _cal_didf_mult_0024<0> 0 _cal_q0_sub_q_0024 _cal_dqdf_mult_0024<0> 0
+delta_f_0025 LINCOM 2 _cal_i0_sub_i_0025 _cal_didf_mult_0025<0> 0 _cal_q0_sub_q_0025 _cal_dqdf_mult_0025<0> 0
+delta_f_0026 LINCOM 2 _cal_i0_sub_i_0026 _cal_didf_mult_0026<0> 0 _cal_q0_sub_q_0026 _cal_dqdf_mult_0026<0> 0
+delta_f_0027 LINCOM 2 _cal_i0_sub_i_0027 _cal_didf_mult_0027<0> 0 _cal_q0_sub_q_0027 _cal_dqdf_mult_0027<0> 0
+delta_f_0028 LINCOM 2 _cal_i0_sub_i_0028 _cal_didf_mult_0028<0> 0 _cal_q0_sub_q_0028 _cal_dqdf_mult_0028<0> 0
+delta_f_0029 LINCOM 2 _cal_i0_sub_i_0029 _cal_didf_mult_0029<0> 0 _cal_q0_sub_q_0029 _cal_dqdf_mult_0029<0> 0
+delta_f_0030 LINCOM 2 _cal_i0_sub_i_0030 _cal_didf_mult_0030<0> 0 _cal_q0_sub_q_0030 _cal_dqdf_mult_0030<0> 0
+delta_f_0031 LINCOM 2 _cal_i0_sub_i_0031 _cal_didf_mult_0031<0> 0 _cal_q0_sub_q_0031 _cal_dqdf_mult_0031<0> 0
+delta_f_0032 LINCOM 2 _cal_i0_sub_i_0032 _cal_didf_mult_0032<0> 0 _cal_q0_sub_q_0032 _cal_dqdf_mult_0032<0> 0
+delta_f_0033 LINCOM 2 _cal_i0_sub_i_0033 _cal_didf_mult_0033<0> 0 _cal_q0_sub_q_0033 _cal_dqdf_mult_0033<0> 0
+delta_f_0034 LINCOM 2 _cal_i0_sub_i_0034 _cal_didf_mult_0034<0> 0 _cal_q0_sub_q_0034 _cal_dqdf_mult_0034<0> 0
+delta_f_0035 LINCOM 2 _cal_i0_sub_i_0035 _cal_didf_mult_0035<0> 0 _cal_q0_sub_q_0035 _cal_dqdf_mult_0035<0> 0
+delta_f_0036 LINCOM 2 _cal_i0_sub_i_0036 _cal_didf_mult_0036<0> 0 _cal_q0_sub_q_0036 _cal_dqdf_mult_0036<0> 0
+delta_f_0037 LINCOM 2 _cal_i0_sub_i_0037 _cal_didf_mult_0037<0> 0 _cal_q0_sub_q_0037 _cal_dqdf_mult_0037<0> 0
+delta_f_0038 LINCOM 2 _cal_i0_sub_i_0038 _cal_didf_mult_0038<0> 0 _cal_q0_sub_q_0038 _cal_dqdf_mult_0038<0> 0
+delta_f_0039 LINCOM 2 _cal_i0_sub_i_0039 _cal_didf_mult_0039<0> 0 _cal_q0_sub_q_0039 _cal_dqdf_mult_0039<0> 0
+delta_f_0040 LINCOM 2 _cal_i0_sub_i_0040 _cal_didf_mult_0040<0> 0 _cal_q0_sub_q_0040 _cal_dqdf_mult_0040<0> 0
+delta_f_0041 LINCOM 2 _cal_i0_sub_i_0041 _cal_didf_mult_0041<0> 0 _cal_q0_sub_q_0041 _cal_dqdf_mult_0041<0> 0
+delta_f_0042 LINCOM 2 _cal_i0_sub_i_0042 _cal_didf_mult_0042<0> 0 _cal_q0_sub_q_0042 _cal_dqdf_mult_0042<0> 0
+delta_f_0043 LINCOM 2 _cal_i0_sub_i_0043 _cal_didf_mult_0043<0> 0 _cal_q0_sub_q_0043 _cal_dqdf_mult_0043<0> 0
+delta_f_0044 LINCOM 2 _cal_i0_sub_i_0044 _cal_didf_mult_0044<0> 0 _cal_q0_sub_q_0044 _cal_dqdf_mult_0044<0> 0
+delta_f_0045 LINCOM 2 _cal_i0_sub_i_0045 _cal_didf_mult_0045<0> 0 _cal_q0_sub_q_0045 _cal_dqdf_mult_0045<0> 0
+delta_f_0046 LINCOM 2 _cal_i0_sub_i_0046 _cal_didf_mult_0046<0> 0 _cal_q0_sub_q_0046 _cal_dqdf_mult_0046<0> 0
+delta_f_0047 LINCOM 2 _cal_i0_sub_i_0047 _cal_didf_mult_0047<0> 0 _cal_q0_sub_q_0047 _cal_dqdf_mult_0047<0> 0
+delta_f_0048 LINCOM 2 _cal_i0_sub_i_0048 _cal_didf_mult_0048<0> 0 _cal_q0_sub_q_0048 _cal_dqdf_mult_0048<0> 0
+delta_f_0049 LINCOM 2 _cal_i0_sub_i_0049 _cal_didf_mult_0049<0> 0 _cal_q0_sub_q_0049 _cal_dqdf_mult_0049<0> 0
+delta_f_0050 LINCOM 2 _cal_i0_sub_i_0050 _cal_didf_mult_0050<0> 0 _cal_q0_sub_q_0050 _cal_dqdf_mult_0050<0> 0
+delta_f_0051 LINCOM 2 _cal_i0_sub_i_0051 _cal_didf_mult_0051<0> 0 _cal_q0_sub_q_0051 _cal_dqdf_mult_0051<0> 0
+delta_f_0052 LINCOM 2 _cal_i0_sub_i_0052 _cal_didf_mult_0052<0> 0 _cal_q0_sub_q_0052 _cal_dqdf_mult_0052<0> 0
+delta_f_0053 LINCOM 2 _cal_i0_sub_i_0053 _cal_didf_mult_0053<0> 0 _cal_q0_sub_q_0053 _cal_dqdf_mult_0053<0> 0
+delta_f_0054 LINCOM 2 _cal_i0_sub_i_0054 _cal_didf_mult_0054<0> 0 _cal_q0_sub_q_0054 _cal_dqdf_mult_0054<0> 0
+delta_f_0055 LINCOM 2 _cal_i0_sub_i_0055 _cal_didf_mult_0055<0> 0 _cal_q0_sub_q_0055 _cal_dqdf_mult_0055<0> 0
+delta_f_0056 LINCOM 2 _cal_i0_sub_i_0056 _cal_didf_mult_0056<0> 0 _cal_q0_sub_q_0056 _cal_dqdf_mult_0056<0> 0
+delta_f_0057 LINCOM 2 _cal_i0_sub_i_0057 _cal_didf_mult_0057<0> 0 _cal_q0_sub_q_0057 _cal_dqdf_mult_0057<0> 0
+delta_f_0058 LINCOM 2 _cal_i0_sub_i_0058 _cal_didf_mult_0058<0> 0 _cal_q0_sub_q_0058 _cal_dqdf_mult_0058<0> 0
+delta_f_0059 LINCOM 2 _cal_i0_sub_i_0059 _cal_didf_mult_0059<0> 0 _cal_q0_sub_q_0059 _cal_dqdf_mult_0059<0> 0
+delta_f_0060 LINCOM 2 _cal_i0_sub_i_0060 _cal_didf_mult_0060<0> 0 _cal_q0_sub_q_0060 _cal_dqdf_mult_0060<0> 0
+delta_f_0061 LINCOM 2 _cal_i0_sub_i_0061 _cal_didf_mult_0061<0> 0 _cal_q0_sub_q_0061 _cal_dqdf_mult_0061<0> 0
+delta_f_0062 LINCOM 2 _cal_i0_sub_i_0062 _cal_didf_mult_0062<0> 0 _cal_q0_sub_q_0062 _cal_dqdf_mult_0062<0> 0
+delta_f_0063 LINCOM 2 _cal_i0_sub_i_0063 _cal_didf_mult_0063<0> 0 _cal_q0_sub_q_0063 _cal_dqdf_mult_0063<0> 0
+delta_f_0064 LINCOM 2 _cal_i0_sub_i_0064 _cal_didf_mult_0064<0> 0 _cal_q0_sub_q_0064 _cal_dqdf_mult_0064<0> 0
+delta_f_0065 LINCOM 2 _cal_i0_sub_i_0065 _cal_didf_mult_0065<0> 0 _cal_q0_sub_q_0065 _cal_dqdf_mult_0065<0> 0
+delta_f_0066 LINCOM 2 _cal_i0_sub_i_0066 _cal_didf_mult_0066<0> 0 _cal_q0_sub_q_0066 _cal_dqdf_mult_0066<0> 0
+delta_f_0067 LINCOM 2 _cal_i0_sub_i_0067 _cal_didf_mult_0067<0> 0 _cal_q0_sub_q_0067 _cal_dqdf_mult_0067<0> 0
+delta_f_0068 LINCOM 2 _cal_i0_sub_i_0068 _cal_didf_mult_0068<0> 0 _cal_q0_sub_q_0068 _cal_dqdf_mult_0068<0> 0
+delta_f_0069 LINCOM 2 _cal_i0_sub_i_0069 _cal_didf_mult_0069<0> 0 _cal_q0_sub_q_0069 _cal_dqdf_mult_0069<0> 0
+delta_f_0070 LINCOM 2 _cal_i0_sub_i_0070 _cal_didf_mult_0070<0> 0 _cal_q0_sub_q_0070 _cal_dqdf_mult_0070<0> 0
+delta_f_0071 LINCOM 2 _cal_i0_sub_i_0071 _cal_didf_mult_0071<0> 0 _cal_q0_sub_q_0071 _cal_dqdf_mult_0071<0> 0
+delta_f_0072 LINCOM 2 _cal_i0_sub_i_0072 _cal_didf_mult_0072<0> 0 _cal_q0_sub_q_0072 _cal_dqdf_mult_0072<0> 0
+delta_f_0073 LINCOM 2 _cal_i0_sub_i_0073 _cal_didf_mult_0073<0> 0 _cal_q0_sub_q_0073 _cal_dqdf_mult_0073<0> 0
+delta_f_0074 LINCOM 2 _cal_i0_sub_i_0074 _cal_didf_mult_0074<0> 0 _cal_q0_sub_q_0074 _cal_dqdf_mult_0074<0> 0
+delta_f_0075 LINCOM 2 _cal_i0_sub_i_0075 _cal_didf_mult_0075<0> 0 _cal_q0_sub_q_0075 _cal_dqdf_mult_0075<0> 0
+delta_f_0076 LINCOM 2 _cal_i0_sub_i_0076 _cal_didf_mult_0076<0> 0 _cal_q0_sub_q_0076 _cal_dqdf_mult_0076<0> 0
+delta_f_0077 LINCOM 2 _cal_i0_sub_i_0077 _cal_didf_mult_0077<0> 0 _cal_q0_sub_q_0077 _cal_dqdf_mult_0077<0> 0
+delta_f_0078 LINCOM 2 _cal_i0_sub_i_0078 _cal_didf_mult_0078<0> 0 _cal_q0_sub_q_0078 _cal_dqdf_mult_0078<0> 0
+delta_f_0079 LINCOM 2 _cal_i0_sub_i_0079 _cal_didf_mult_0079<0> 0 _cal_q0_sub_q_0079 _cal_dqdf_mult_0079<0> 0
+delta_f_0080 LINCOM 2 _cal_i0_sub_i_0080 _cal_didf_mult_0080<0> 0 _cal_q0_sub_q_0080 _cal_dqdf_mult_0080<0> 0
+delta_f_0081 LINCOM 2 _cal_i0_sub_i_0081 _cal_didf_mult_0081<0> 0 _cal_q0_sub_q_0081 _cal_dqdf_mult_0081<0> 0
+delta_f_0082 LINCOM 2 _cal_i0_sub_i_0082 _cal_didf_mult_0082<0> 0 _cal_q0_sub_q_0082 _cal_dqdf_mult_0082<0> 0
+delta_f_0083 LINCOM 2 _cal_i0_sub_i_0083 _cal_didf_mult_0083<0> 0 _cal_q0_sub_q_0083 _cal_dqdf_mult_0083<0> 0
+delta_f_0084 LINCOM 2 _cal_i0_sub_i_0084 _cal_didf_mult_0084<0> 0 _cal_q0_sub_q_0084 _cal_dqdf_mult_0084<0> 0
+delta_f_0085 LINCOM 2 _cal_i0_sub_i_0085 _cal_didf_mult_0085<0> 0 _cal_q0_sub_q_0085 _cal_dqdf_mult_0085<0> 0
+delta_f_0086 LINCOM 2 _cal_i0_sub_i_0086 _cal_didf_mult_0086<0> 0 _cal_q0_sub_q_0086 _cal_dqdf_mult_0086<0> 0
+delta_f_0087 LINCOM 2 _cal_i0_sub_i_0087 _cal_didf_mult_0087<0> 0 _cal_q0_sub_q_0087 _cal_dqdf_mult_0087<0> 0
+delta_f_0088 LINCOM 2 _cal_i0_sub_i_0088 _cal_didf_mult_0088<0> 0 _cal_q0_sub_q_0088 _cal_dqdf_mult_0088<0> 0
+delta_f_0089 LINCOM 2 _cal_i0_sub_i_0089 _cal_didf_mult_0089<0> 0 _cal_q0_sub_q_0089 _cal_dqdf_mult_0089<0> 0
+delta_f_0090 LINCOM 2 _cal_i0_sub_i_0090 _cal_didf_mult_0090<0> 0 _cal_q0_sub_q_0090 _cal_dqdf_mult_0090<0> 0
+delta_f_0091 LINCOM 2 _cal_i0_sub_i_0091 _cal_didf_mult_0091<0> 0 _cal_q0_sub_q_0091 _cal_dqdf_mult_0091<0> 0
+delta_f_0092 LINCOM 2 _cal_i0_sub_i_0092 _cal_didf_mult_0092<0> 0 _cal_q0_sub_q_0092 _cal_dqdf_mult_0092<0> 0
+delta_f_0093 LINCOM 2 _cal_i0_sub_i_0093 _cal_didf_mult_0093<0> 0 _cal_q0_sub_q_0093 _cal_dqdf_mult_0093<0> 0
+delta_f_0094 LINCOM 2 _cal_i0_sub_i_0094 _cal_didf_mult_0094<0> 0 _cal_q0_sub_q_0094 _cal_dqdf_mult_0094<0> 0
+delta_f_0095 LINCOM 2 _cal_i0_sub_i_0095 _cal_didf_mult_0095<0> 0 _cal_q0_sub_q_0095 _cal_dqdf_mult_0095<0> 0
+delta_f_0096 LINCOM 2 _cal_i0_sub_i_0096 _cal_didf_mult_0096<0> 0 _cal_q0_sub_q_0096 _cal_dqdf_mult_0096<0> 0
+delta_f_0097 LINCOM 2 _cal_i0_sub_i_0097 _cal_didf_mult_0097<0> 0 _cal_q0_sub_q_0097 _cal_dqdf_mult_0097<0> 0
+delta_f_0098 LINCOM 2 _cal_i0_sub_i_0098 _cal_didf_mult_0098<0> 0 _cal_q0_sub_q_0098 _cal_dqdf_mult_0098<0> 0
+delta_f_0099 LINCOM 2 _cal_i0_sub_i_0099 _cal_didf_mult_0099<0> 0 _cal_q0_sub_q_0099 _cal_dqdf_mult_0099<0> 0
+delta_f_0100 LINCOM 2 _cal_i0_sub_i_0100 _cal_didf_mult_0100<0> 0 _cal_q0_sub_q_0100 _cal_dqdf_mult_0100<0> 0
+delta_f_0101 LINCOM 2 _cal_i0_sub_i_0101 _cal_didf_mult_0101<0> 0 _cal_q0_sub_q_0101 _cal_dqdf_mult_0101<0> 0
+delta_f_0102 LINCOM 2 _cal_i0_sub_i_0102 _cal_didf_mult_0102<0> 0 _cal_q0_sub_q_0102 _cal_dqdf_mult_0102<0> 0
+delta_f_0103 LINCOM 2 _cal_i0_sub_i_0103 _cal_didf_mult_0103<0> 0 _cal_q0_sub_q_0103 _cal_dqdf_mult_0103<0> 0
+delta_f_0104 LINCOM 2 _cal_i0_sub_i_0104 _cal_didf_mult_0104<0> 0 _cal_q0_sub_q_0104 _cal_dqdf_mult_0104<0> 0
+delta_f_0105 LINCOM 2 _cal_i0_sub_i_0105 _cal_didf_mult_0105<0> 0 _cal_q0_sub_q_0105 _cal_dqdf_mult_0105<0> 0
+delta_f_0106 LINCOM 2 _cal_i0_sub_i_0106 _cal_didf_mult_0106<0> 0 _cal_q0_sub_q_0106 _cal_dqdf_mult_0106<0> 0
+delta_f_0107 LINCOM 2 _cal_i0_sub_i_0107 _cal_didf_mult_0107<0> 0 _cal_q0_sub_q_0107 _cal_dqdf_mult_0107<0> 0
+delta_f_0108 LINCOM 2 _cal_i0_sub_i_0108 _cal_didf_mult_0108<0> 0 _cal_q0_sub_q_0108 _cal_dqdf_mult_0108<0> 0
+delta_f_0109 LINCOM 2 _cal_i0_sub_i_0109 _cal_didf_mult_0109<0> 0 _cal_q0_sub_q_0109 _cal_dqdf_mult_0109<0> 0
+delta_f_0110 LINCOM 2 _cal_i0_sub_i_0110 _cal_didf_mult_0110<0> 0 _cal_q0_sub_q_0110 _cal_dqdf_mult_0110<0> 0
+delta_f_0111 LINCOM 2 _cal_i0_sub_i_0111 _cal_didf_mult_0111<0> 0 _cal_q0_sub_q_0111 _cal_dqdf_mult_0111<0> 0
+delta_f_0112 LINCOM 2 _cal_i0_sub_i_0112 _cal_didf_mult_0112<0> 0 _cal_q0_sub_q_0112 _cal_dqdf_mult_0112<0> 0
+delta_f_0113 LINCOM 2 _cal_i0_sub_i_0113 _cal_didf_mult_0113<0> 0 _cal_q0_sub_q_0113 _cal_dqdf_mult_0113<0> 0
+delta_f_0114 LINCOM 2 _cal_i0_sub_i_0114 _cal_didf_mult_0114<0> 0 _cal_q0_sub_q_0114 _cal_dqdf_mult_0114<0> 0
+delta_f_0115 LINCOM 2 _cal_i0_sub_i_0115 _cal_didf_mult_0115<0> 0 _cal_q0_sub_q_0115 _cal_dqdf_mult_0115<0> 0
+delta_f_0116 LINCOM 2 _cal_i0_sub_i_0116 _cal_didf_mult_0116<0> 0 _cal_q0_sub_q_0116 _cal_dqdf_mult_0116<0> 0
+delta_f_0117 LINCOM 2 _cal_i0_sub_i_0117 _cal_didf_mult_0117<0> 0 _cal_q0_sub_q_0117 _cal_dqdf_mult_0117<0> 0
+delta_f_0118 LINCOM 2 _cal_i0_sub_i_0118 _cal_didf_mult_0118<0> 0 _cal_q0_sub_q_0118 _cal_dqdf_mult_0118<0> 0
+delta_f_0119 LINCOM 2 _cal_i0_sub_i_0119 _cal_didf_mult_0119<0> 0 _cal_q0_sub_q_0119 _cal_dqdf_mult_0119<0> 0
+delta_f_0120 LINCOM 2 _cal_i0_sub_i_0120 _cal_didf_mult_0120<0> 0 _cal_q0_sub_q_0120 _cal_dqdf_mult_0120<0> 0
+delta_f_0121 LINCOM 2 _cal_i0_sub_i_0121 _cal_didf_mult_0121<0> 0 _cal_q0_sub_q_0121 _cal_dqdf_mult_0121<0> 0
+delta_f_0122 LINCOM 2 _cal_i0_sub_i_0122 _cal_didf_mult_0122<0> 0 _cal_q0_sub_q_0122 _cal_dqdf_mult_0122<0> 0
+delta_f_0123 LINCOM 2 _cal_i0_sub_i_0123 _cal_didf_mult_0123<0> 0 _cal_q0_sub_q_0123 _cal_dqdf_mult_0123<0> 0
+delta_f_0124 LINCOM 2 _cal_i0_sub_i_0124 _cal_didf_mult_0124<0> 0 _cal_q0_sub_q_0124 _cal_dqdf_mult_0124<0> 0
+delta_f_0125 LINCOM 2 _cal_i0_sub_i_0125 _cal_didf_mult_0125<0> 0 _cal_q0_sub_q_0125 _cal_dqdf_mult_0125<0> 0
+delta_f_0126 LINCOM 2 _cal_i0_sub_i_0126 _cal_didf_mult_0126<0> 0 _cal_q0_sub_q_0126 _cal_dqdf_mult_0126<0> 0
+delta_f_0127 LINCOM 2 _cal_i0_sub_i_0127 _cal_didf_mult_0127<0> 0 _cal_q0_sub_q_0127 _cal_dqdf_mult_0127<0> 0
+delta_f_0128 LINCOM 2 _cal_i0_sub_i_0128 _cal_didf_mult_0128<0> 0 _cal_q0_sub_q_0128 _cal_dqdf_mult_0128<0> 0
+delta_f_0129 LINCOM 2 _cal_i0_sub_i_0129 _cal_didf_mult_0129<0> 0 _cal_q0_sub_q_0129 _cal_dqdf_mult_0129<0> 0
+delta_f_0130 LINCOM 2 _cal_i0_sub_i_0130 _cal_didf_mult_0130<0> 0 _cal_q0_sub_q_0130 _cal_dqdf_mult_0130<0> 0
+delta_f_0131 LINCOM 2 _cal_i0_sub_i_0131 _cal_didf_mult_0131<0> 0 _cal_q0_sub_q_0131 _cal_dqdf_mult_0131<0> 0
+delta_f_0132 LINCOM 2 _cal_i0_sub_i_0132 _cal_didf_mult_0132<0> 0 _cal_q0_sub_q_0132 _cal_dqdf_mult_0132<0> 0
+amplitude_0000 PHASE _cal_complex_0000.m 0
+amplitude_0001 PHASE _cal_complex_0001.m 0
+amplitude_0002 PHASE _cal_complex_0002.m 0
+amplitude_0003 PHASE _cal_complex_0003.m 0
+amplitude_0004 PHASE _cal_complex_0004.m 0
+amplitude_0005 PHASE _cal_complex_0005.m 0
+amplitude_0006 PHASE _cal_complex_0006.m 0
+amplitude_0007 PHASE _cal_complex_0007.m 0
+amplitude_0008 PHASE _cal_complex_0008.m 0
+amplitude_0009 PHASE _cal_complex_0009.m 0
+amplitude_0010 PHASE _cal_complex_0010.m 0
+amplitude_0011 PHASE _cal_complex_0011.m 0
+amplitude_0012 PHASE _cal_complex_0012.m 0
+amplitude_0013 PHASE _cal_complex_0013.m 0
+amplitude_0014 PHASE _cal_complex_0014.m 0
+amplitude_0015 PHASE _cal_complex_0015.m 0
+amplitude_0016 PHASE _cal_complex_0016.m 0
+amplitude_0017 PHASE _cal_complex_0017.m 0
+amplitude_0018 PHASE _cal_complex_0018.m 0
+amplitude_0019 PHASE _cal_complex_0019.m 0
+amplitude_0020 PHASE _cal_complex_0020.m 0
+amplitude_0021 PHASE _cal_complex_0021.m 0
+amplitude_0022 PHASE _cal_complex_0022.m 0
+amplitude_0023 PHASE _cal_complex_0023.m 0
+amplitude_0024 PHASE _cal_complex_0024.m 0
+amplitude_0025 PHASE _cal_complex_0025.m 0
+amplitude_0026 PHASE _cal_complex_0026.m 0
+amplitude_0027 PHASE _cal_complex_0027.m 0
+amplitude_0028 PHASE _cal_complex_0028.m 0
+amplitude_0029 PHASE _cal_complex_0029.m 0
+amplitude_0030 PHASE _cal_complex_0030.m 0
+amplitude_0031 PHASE _cal_complex_0031.m 0
+amplitude_0032 PHASE _cal_complex_0032.m 0
+amplitude_0033 PHASE _cal_complex_0033.m 0
+amplitude_0034 PHASE _cal_complex_0034.m 0
+amplitude_0035 PHASE _cal_complex_0035.m 0
+amplitude_0036 PHASE _cal_complex_0036.m 0
+amplitude_0037 PHASE _cal_complex_0037.m 0
+amplitude_0038 PHASE _cal_complex_0038.m 0
+amplitude_0039 PHASE _cal_complex_0039.m 0
+amplitude_0040 PHASE _cal_complex_0040.m 0
+amplitude_0041 PHASE _cal_complex_0041.m 0
+amplitude_0042 PHASE _cal_complex_0042.m 0
+amplitude_0043 PHASE _cal_complex_0043.m 0
+amplitude_0044 PHASE _cal_complex_0044.m 0
+amplitude_0045 PHASE _cal_complex_0045.m 0
+amplitude_0046 PHASE _cal_complex_0046.m 0
+amplitude_0047 PHASE _cal_complex_0047.m 0
+amplitude_0048 PHASE _cal_complex_0048.m 0
+amplitude_0049 PHASE _cal_complex_0049.m 0
+amplitude_0050 PHASE _cal_complex_0050.m 0
+amplitude_0051 PHASE _cal_complex_0051.m 0
+amplitude_0052 PHASE _cal_complex_0052.m 0
+amplitude_0053 PHASE _cal_complex_0053.m 0
+amplitude_0054 PHASE _cal_complex_0054.m 0
+amplitude_0055 PHASE _cal_complex_0055.m 0
+amplitude_0056 PHASE _cal_complex_0056.m 0
+amplitude_0057 PHASE _cal_complex_0057.m 0
+amplitude_0058 PHASE _cal_complex_0058.m 0
+amplitude_0059 PHASE _cal_complex_0059.m 0
+amplitude_0060 PHASE _cal_complex_0060.m 0
+amplitude_0061 PHASE _cal_complex_0061.m 0
+amplitude_0062 PHASE _cal_complex_0062.m 0
+amplitude_0063 PHASE _cal_complex_0063.m 0
+amplitude_0064 PHASE _cal_complex_0064.m 0
+amplitude_0065 PHASE _cal_complex_0065.m 0
+amplitude_0066 PHASE _cal_complex_0066.m 0
+amplitude_0067 PHASE _cal_complex_0067.m 0
+amplitude_0068 PHASE _cal_complex_0068.m 0
+amplitude_0069 PHASE _cal_complex_0069.m 0
+amplitude_0070 PHASE _cal_complex_0070.m 0
+amplitude_0071 PHASE _cal_complex_0071.m 0
+amplitude_0072 PHASE _cal_complex_0072.m 0
+amplitude_0073 PHASE _cal_complex_0073.m 0
+amplitude_0074 PHASE _cal_complex_0074.m 0
+amplitude_0075 PHASE _cal_complex_0075.m 0
+amplitude_0076 PHASE _cal_complex_0076.m 0
+amplitude_0077 PHASE _cal_complex_0077.m 0
+amplitude_0078 PHASE _cal_complex_0078.m 0
+amplitude_0079 PHASE _cal_complex_0079.m 0
+amplitude_0080 PHASE _cal_complex_0080.m 0
+amplitude_0081 PHASE _cal_complex_0081.m 0
+amplitude_0082 PHASE _cal_complex_0082.m 0
+amplitude_0083 PHASE _cal_complex_0083.m 0
+amplitude_0084 PHASE _cal_complex_0084.m 0
+amplitude_0085 PHASE _cal_complex_0085.m 0
+amplitude_0086 PHASE _cal_complex_0086.m 0
+amplitude_0087 PHASE _cal_complex_0087.m 0
+amplitude_0088 PHASE _cal_complex_0088.m 0
+amplitude_0089 PHASE _cal_complex_0089.m 0
+amplitude_0090 PHASE _cal_complex_0090.m 0
+amplitude_0091 PHASE _cal_complex_0091.m 0
+amplitude_0092 PHASE _cal_complex_0092.m 0
+amplitude_0093 PHASE _cal_complex_0093.m 0
+amplitude_0094 PHASE _cal_complex_0094.m 0
+amplitude_0095 PHASE _cal_complex_0095.m 0
+amplitude_0096 PHASE _cal_complex_0096.m 0
+amplitude_0097 PHASE _cal_complex_0097.m 0
+amplitude_0098 PHASE _cal_complex_0098.m 0
+amplitude_0099 PHASE _cal_complex_0099.m 0
+amplitude_0100 PHASE _cal_complex_0100.m 0
+amplitude_0101 PHASE _cal_complex_0101.m 0
+amplitude_0102 PHASE _cal_complex_0102.m 0
+amplitude_0103 PHASE _cal_complex_0103.m 0
+amplitude_0104 PHASE _cal_complex_0104.m 0
+amplitude_0105 PHASE _cal_complex_0105.m 0
+amplitude_0106 PHASE _cal_complex_0106.m 0
+amplitude_0107 PHASE _cal_complex_0107.m 0
+amplitude_0108 PHASE _cal_complex_0108.m 0
+amplitude_0109 PHASE _cal_complex_0109.m 0
+amplitude_0110 PHASE _cal_complex_0110.m 0
+amplitude_0111 PHASE _cal_complex_0111.m 0
+amplitude_0112 PHASE _cal_complex_0112.m 0
+amplitude_0113 PHASE _cal_complex_0113.m 0
+amplitude_0114 PHASE _cal_complex_0114.m 0
+amplitude_0115 PHASE _cal_complex_0115.m 0
+amplitude_0116 PHASE _cal_complex_0116.m 0
+amplitude_0117 PHASE _cal_complex_0117.m 0
+amplitude_0118 PHASE _cal_complex_0118.m 0
+amplitude_0119 PHASE _cal_complex_0119.m 0
+amplitude_0120 PHASE _cal_complex_0120.m 0
+amplitude_0121 PHASE _cal_complex_0121.m 0
+amplitude_0122 PHASE _cal_complex_0122.m 0
+amplitude_0123 PHASE _cal_complex_0123.m 0
+amplitude_0124 PHASE _cal_complex_0124.m 0
+amplitude_0125 PHASE _cal_complex_0125.m 0
+amplitude_0126 PHASE _cal_complex_0126.m 0
+amplitude_0127 PHASE _cal_complex_0127.m 0
+amplitude_0128 PHASE _cal_complex_0128.m 0
+amplitude_0129 PHASE _cal_complex_0129.m 0
+amplitude_0130 PHASE _cal_complex_0130.m 0
+amplitude_0131 PHASE _cal_complex_0131.m 0
+amplitude_0132 PHASE _cal_complex_0132.m 0
+phase_raw_0000 LINCOM 1 _cal_complex_0000.a 1 0
+phase_raw_0001 LINCOM 1 _cal_complex_0001.a 1 0
+phase_raw_0002 LINCOM 1 _cal_complex_0002.a 1 0
+phase_raw_0003 LINCOM 1 _cal_complex_0003.a 1 0
+phase_raw_0004 LINCOM 1 _cal_complex_0004.a 1 0
+phase_raw_0005 LINCOM 1 _cal_complex_0005.a 1 0
+phase_raw_0006 LINCOM 1 _cal_complex_0006.a 1 0
+phase_raw_0007 LINCOM 1 _cal_complex_0007.a 1 0
+phase_raw_0008 LINCOM 1 _cal_complex_0008.a 1 0
+phase_raw_0009 LINCOM 1 _cal_complex_0009.a 1 0
+phase_raw_0010 LINCOM 1 _cal_complex_0010.a 1 0
+phase_raw_0011 LINCOM 1 _cal_complex_0011.a 1 0
+phase_raw_0012 LINCOM 1 _cal_complex_0012.a 1 0
+phase_raw_0013 LINCOM 1 _cal_complex_0013.a 1 0
+phase_raw_0014 LINCOM 1 _cal_complex_0014.a 1 0
+phase_raw_0015 LINCOM 1 _cal_complex_0015.a 1 0
+phase_raw_0016 LINCOM 1 _cal_complex_0016.a 1 0
+phase_raw_0017 LINCOM 1 _cal_complex_0017.a 1 0
+phase_raw_0018 LINCOM 1 _cal_complex_0018.a 1 0
+phase_raw_0019 LINCOM 1 _cal_complex_0019.a 1 0
+phase_raw_0020 LINCOM 1 _cal_complex_0020.a 1 0
+phase_raw_0021 LINCOM 1 _cal_complex_0021.a 1 0
+phase_raw_0022 LINCOM 1 _cal_complex_0022.a 1 0
+phase_raw_0023 LINCOM 1 _cal_complex_0023.a 1 0
+phase_raw_0024 LINCOM 1 _cal_complex_0024.a 1 0
+phase_raw_0025 LINCOM 1 _cal_complex_0025.a 1 0
+phase_raw_0026 LINCOM 1 _cal_complex_0026.a 1 0
+phase_raw_0027 LINCOM 1 _cal_complex_0027.a 1 0
+phase_raw_0028 LINCOM 1 _cal_complex_0028.a 1 0
+phase_raw_0029 LINCOM 1 _cal_complex_0029.a 1 0
+phase_raw_0030 LINCOM 1 _cal_complex_0030.a 1 0
+phase_raw_0031 LINCOM 1 _cal_complex_0031.a 1 0
+phase_raw_0032 LINCOM 1 _cal_complex_0032.a 1 0
+phase_raw_0033 LINCOM 1 _cal_complex_0033.a 1 0
+phase_raw_0034 LINCOM 1 _cal_complex_0034.a 1 0
+phase_raw_0035 LINCOM 1 _cal_complex_0035.a 1 0
+phase_raw_0036 LINCOM 1 _cal_complex_0036.a 1 0
+phase_raw_0037 LINCOM 1 _cal_complex_0037.a 1 0
+phase_raw_0038 LINCOM 1 _cal_complex_0038.a 1 0
+phase_raw_0039 LINCOM 1 _cal_complex_0039.a 1 0
+phase_raw_0040 LINCOM 1 _cal_complex_0040.a 1 0
+phase_raw_0041 LINCOM 1 _cal_complex_0041.a 1 0
+phase_raw_0042 LINCOM 1 _cal_complex_0042.a 1 0
+phase_raw_0043 LINCOM 1 _cal_complex_0043.a 1 0
+phase_raw_0044 LINCOM 1 _cal_complex_0044.a 1 0
+phase_raw_0045 LINCOM 1 _cal_complex_0045.a 1 0
+phase_raw_0046 LINCOM 1 _cal_complex_0046.a 1 0
+phase_raw_0047 LINCOM 1 _cal_complex_0047.a 1 0
+phase_raw_0048 LINCOM 1 _cal_complex_0048.a 1 0
+phase_raw_0049 LINCOM 1 _cal_complex_0049.a 1 0
+phase_raw_0050 LINCOM 1 _cal_complex_0050.a 1 0
+phase_raw_0051 LINCOM 1 _cal_complex_0051.a 1 0
+phase_raw_0052 LINCOM 1 _cal_complex_0052.a 1 0
+phase_raw_0053 LINCOM 1 _cal_complex_0053.a 1 0
+phase_raw_0054 LINCOM 1 _cal_complex_0054.a 1 0
+phase_raw_0055 LINCOM 1 _cal_complex_0055.a 1 0
+phase_raw_0056 LINCOM 1 _cal_complex_0056.a 1 0
+phase_raw_0057 LINCOM 1 _cal_complex_0057.a 1 0
+phase_raw_0058 LINCOM 1 _cal_complex_0058.a 1 0
+phase_raw_0059 LINCOM 1 _cal_complex_0059.a 1 0
+phase_raw_0060 LINCOM 1 _cal_complex_0060.a 1 0
+phase_raw_0061 LINCOM 1 _cal_complex_0061.a 1 0
+phase_raw_0062 LINCOM 1 _cal_complex_0062.a 1 0
+phase_raw_0063 LINCOM 1 _cal_complex_0063.a 1 0
+phase_raw_0064 LINCOM 1 _cal_complex_0064.a 1 0
+phase_raw_0065 LINCOM 1 _cal_complex_0065.a 1 0
+phase_raw_0066 LINCOM 1 _cal_complex_0066.a 1 0
+phase_raw_0067 LINCOM 1 _cal_complex_0067.a 1 0
+phase_raw_0068 LINCOM 1 _cal_complex_0068.a 1 0
+phase_raw_0069 LINCOM 1 _cal_complex_0069.a 1 0
+phase_raw_0070 LINCOM 1 _cal_complex_0070.a 1 0
+phase_raw_0071 LINCOM 1 _cal_complex_0071.a 1 0
+phase_raw_0072 LINCOM 1 _cal_complex_0072.a 1 0
+phase_raw_0073 LINCOM 1 _cal_complex_0073.a 1 0
+phase_raw_0074 LINCOM 1 _cal_complex_0074.a 1 0
+phase_raw_0075 LINCOM 1 _cal_complex_0075.a 1 0
+phase_raw_0076 LINCOM 1 _cal_complex_0076.a 1 0
+phase_raw_0077 LINCOM 1 _cal_complex_0077.a 1 0
+phase_raw_0078 LINCOM 1 _cal_complex_0078.a 1 0
+phase_raw_0079 LINCOM 1 _cal_complex_0079.a 1 0
+phase_raw_0080 LINCOM 1 _cal_complex_0080.a 1 0
+phase_raw_0081 LINCOM 1 _cal_complex_0081.a 1 0
+phase_raw_0082 LINCOM 1 _cal_complex_0082.a 1 0
+phase_raw_0083 LINCOM 1 _cal_complex_0083.a 1 0
+phase_raw_0084 LINCOM 1 _cal_complex_0084.a 1 0
+phase_raw_0085 LINCOM 1 _cal_complex_0085.a 1 0
+phase_raw_0086 LINCOM 1 _cal_complex_0086.a 1 0
+phase_raw_0087 LINCOM 1 _cal_complex_0087.a 1 0
+phase_raw_0088 LINCOM 1 _cal_complex_0088.a 1 0
+phase_raw_0089 LINCOM 1 _cal_complex_0089.a 1 0
+phase_raw_0090 LINCOM 1 _cal_complex_0090.a 1 0
+phase_raw_0091 LINCOM 1 _cal_complex_0091.a 1 0
+phase_raw_0092 LINCOM 1 _cal_complex_0092.a 1 0
+phase_raw_0093 LINCOM 1 _cal_complex_0093.a 1 0
+phase_raw_0094 LINCOM 1 _cal_complex_0094.a 1 0
+phase_raw_0095 LINCOM 1 _cal_complex_0095.a 1 0
+phase_raw_0096 LINCOM 1 _cal_complex_0096.a 1 0
+phase_raw_0097 LINCOM 1 _cal_complex_0097.a 1 0
+phase_raw_0098 LINCOM 1 _cal_complex_0098.a 1 0
+phase_raw_0099 LINCOM 1 _cal_complex_0099.a 1 0
+phase_raw_0100 LINCOM 1 _cal_complex_0100.a 1 0
+phase_raw_0101 LINCOM 1 _cal_complex_0101.a 1 0
+phase_raw_0102 LINCOM 1 _cal_complex_0102.a 1 0
+phase_raw_0103 LINCOM 1 _cal_complex_0103.a 1 0
+phase_raw_0104 LINCOM 1 _cal_complex_0104.a 1 0
+phase_raw_0105 LINCOM 1 _cal_complex_0105.a 1 0
+phase_raw_0106 LINCOM 1 _cal_complex_0106.a 1 0
+phase_raw_0107 LINCOM 1 _cal_complex_0107.a 1 0
+phase_raw_0108 LINCOM 1 _cal_complex_0108.a 1 0
+phase_raw_0109 LINCOM 1 _cal_complex_0109.a 1 0
+phase_raw_0110 LINCOM 1 _cal_complex_0110.a 1 0
+phase_raw_0111 LINCOM 1 _cal_complex_0111.a 1 0
+phase_raw_0112 LINCOM 1 _cal_complex_0112.a 1 0
+phase_raw_0113 LINCOM 1 _cal_complex_0113.a 1 0
+phase_raw_0114 LINCOM 1 _cal_complex_0114.a 1 0
+phase_raw_0115 LINCOM 1 _cal_complex_0115.a 1 0
+phase_raw_0116 LINCOM 1 _cal_complex_0116.a 1 0
+phase_raw_0117 LINCOM 1 _cal_complex_0117.a 1 0
+phase_raw_0118 LINCOM 1 _cal_complex_0118.a 1 0
+phase_raw_0119 LINCOM 1 _cal_complex_0119.a 1 0
+phase_raw_0120 LINCOM 1 _cal_complex_0120.a 1 0
+phase_raw_0121 LINCOM 1 _cal_complex_0121.a 1 0
+phase_raw_0122 LINCOM 1 _cal_complex_0122.a 1 0
+phase_raw_0123 LINCOM 1 _cal_complex_0123.a 1 0
+phase_raw_0124 LINCOM 1 _cal_complex_0124.a 1 0
+phase_raw_0125 LINCOM 1 _cal_complex_0125.a 1 0
+phase_raw_0126 LINCOM 1 _cal_complex_0126.a 1 0
+phase_raw_0127 LINCOM 1 _cal_complex_0127.a 1 0
+phase_raw_0128 LINCOM 1 _cal_complex_0128.a 1 0
+phase_raw_0129 LINCOM 1 _cal_complex_0129.a 1 0
+phase_raw_0130 LINCOM 1 _cal_complex_0130.a 1 0
+phase_raw_0131 LINCOM 1 _cal_complex_0131.a 1 0
+phase_raw_0132 LINCOM 1 _cal_complex_0132.a 1 0
+_cal_centred_0000 LINCOM 1 _cal_complex_0000 1;0 0.00988758534428486;0.00317409776065468
+_cal_centred_0001 LINCOM 1 _cal_complex_0001 1;0 0.00253113755465906;-0.0142423804931887
+_cal_centred_0002 LINCOM 1 _cal_complex_0002 1;0 0.0055829672576063;0.0119638970576582
+_cal_centred_0003 LINCOM 1 _cal_complex_0003 1;0 -0.0111717766058841;0.00538707901428576
+_cal_centred_0004 LINCOM 1 _cal_complex_0004 1;0 0.005954813148709;-0.00793475152024974
+_cal_centred_0005 LINCOM 1 _cal_complex_0005 1;0 -0.0120006069326581;-0.00472719588927326
+_cal_centred_0006 LINCOM 1 _cal_complex_0006 1;0 -0.0137715576046858;0.00199375791378896
+_cal_centred_0007 LINCOM 1 _cal_complex_0007 1;0 -0.0130991416942134;-0.00334720691430033
+_cal_centred_0008 LINCOM 1 _cal_complex_0008 1;0 -0.00294207352546886;0.0100040615681753
+_cal_centred_0009 LINCOM 1 _cal_complex_0009 1;0 -0.00454453118729298;0.0203521355880063
+_cal_centred_0010 LINCOM 1 _cal_complex_0010 1;0 -0.00972424290918284;-0.0179610017159646
+_cal_centred_0011 LINCOM 1 _cal_complex_0011 1;0 0.0058215984426547;0.0115739915898553
+_cal_centred_0012 LINCOM 1 _cal_complex_0012 1;0 0.0134524325350423;0.00356987041870123
+_cal_centred_0013 LINCOM 1 _cal_complex_0013 1;0 -0.0101816635262526;0.000524673964286532
+_cal_centred_0014 LINCOM 1 _cal_complex_0014 1;0 -0.00931215477429275;0.00747125511524469
+_cal_centred_0015 LINCOM 1 _cal_complex_0015 1;0 0.0184071381845873;0.01080246657145
+_cal_centred_0016 LINCOM 1 _cal_complex_0016 1;0 -0.0101366464552825;0.00631092329142001
+_cal_centred_0017 LINCOM 1 _cal_complex_0017 1;0 0.00766537128189444;-0.00146294190759092
+_cal_centred_0018 LINCOM 1 _cal_complex_0018 1;0 0.0105304923157945;0.00278410086383309
+_cal_centred_0019 LINCOM 1 _cal_complex_0019 1;0 0.00181227994550087;-0.00591195393540016
+_cal_centred_0020 LINCOM 1 _cal_complex_0020 1;0 -0.0125320969018087;0.00203448197076554
+_cal_centred_0021 LINCOM 1 _cal_complex_0021 1;0 0.0118316663386826;0.00249270854840368
+_cal_centred_0022 LINCOM 1 _cal_complex_0022 1;0 -0.00775541634202994;-0.00264598042029162
+_cal_centred_0023 LINCOM 1 _cal_complex_0023 1;0 0.0100312540011216;0.00175252092635323
+_cal_centred_0024 LINCOM 1 _cal_complex_0024 1;0 0.000853504396820121;-0.0162082343708372
+_cal_centred_0025 LINCOM 1 _cal_complex_0025 1;0 0.00611815969852993;-0.00372925655610204
+_cal_centred_0026 LINCOM 1 _cal_complex_0026 1;0 0.000974931113231202;-0.00786632090455487
+_cal_centred_0027 LINCOM 1 _cal_complex_0027 1;0 -0.00838290543364154;-0.00877919062614114
+_cal_centred_0028 LINCOM 1 _cal_complex_0028 1;0 -0.00632173755007577;0.00103273405100479
+_cal_centred_0029 LINCOM 1 _cal_complex_0029 1;0 0.00618160350602982;0.00688617067423788
+_cal_centred_0030 LINCOM 1 _cal_complex_0030 1;0 -0.000557667175238328;0.00841922154124051
+_cal_centred_0031 LINCOM 1 _cal_complex_0031 1;0 -0.0132193716335182;-0.000567170889288288
+_cal_centred_0032 LINCOM 1 _cal_complex_0032 1;0 -0.0050902830278377;0.00746544454640666
+_cal_centred_0033 LINCOM 1 _cal_complex_0033 1;0 -0.00209311571432207;0.00948870635193686
+_cal_centred_0034 LINCOM 1 _cal_complex_0034 1;0 -0.00961396309995072;-0.00245887151808549
+_cal_centred_0035 LINCOM 1 _cal_complex_0035 1;0 0.00750755925888059;0.00676230915503955
+_cal_centred_0036 LINCOM 1 _cal_complex_0036 1;0 0.00889064214474656;-0.00507658009421392
+_cal_centred_0037 LINCOM 1 _cal_complex_0037 1;0 0.0046898592552051;-0.00846279508326915
+_cal_centred_0038 LINCOM 1 _cal_complex_0038 1;0 0.00867345893156002;-0.00314666926482989
+_cal_centred_0039 LINCOM 1 _cal_complex_0039 1;0 -0.00785422421712607;0.00706967536618878
+_cal_centred_0040 LINCOM 1 _cal_complex_0040 1;0 0.00590001872581601;0.00760928532253137
+_cal_centred_0041 LINCOM 1 _cal_complex_0041 1;0 -0.00327757104693923;0.0079679378822804
+_cal_centred_0042 LINCOM 1 _cal_complex_0042 1;0 -0.000725077197734694;0.003656318531569
+_cal_centred_0043 LINCOM 1 _cal_complex_0043 1;0 -0.0063757276977081;-0.00172591801522974
+_cal_centred_0044 LINCOM 1 _cal_complex_0044 1;0 0.00216768910994094;-0.00203289086909791
+_cal_centred_0045 LINCOM 1 _cal_complex_0045 1;0 0.00150005548612266;-0.0044601771308138
+_cal_centred_0046 LINCOM 1 _cal_complex_0046 1;0 0.000947416112713242;0.00262119341195653
+_cal_centred_0047 LINCOM 1 _cal_complex_0047 1;0 0.00291232097675884;-0.0065068677639799
+_cal_centred_0048 LINCOM 1 _cal_complex_0048 1;0 0.00405103772331311;-0.000842813499082292
+_cal_centred_0049 LINCOM 1 _cal_complex_0049 1;0 0.00346911826686863;-0.00104943032043783
+_cal_centred_0050 LINCOM 1 _cal_complex_0050 1;0 0.000896934248204064;0.00399053084107393
+_cal_centred_0051 LINCOM 1 _cal_complex_0051 1;0 0.00378192276298036;-0.00378558282614215
+_cal_centred_0052 LINCOM 1 _cal_complex_0052 1;0 0.00246595236568549;0.00609448904826801
+_cal_centred_0053 LINCOM 1 _cal_complex_0053 1;0 -0.0048082300099869;-0.00567832567369151
+_cal_centred_0054 LINCOM 1 _cal_complex_0054 1;0 0.00806315547703899;-0.00635146257147455
+_cal_centred_0055 LINCOM 1 _cal_complex_0055 1;0 0.000730206213031409;0.00722355350612652
+_cal_centred_0056 LINCOM 1 _cal_complex_0056 1;0 -0.00956571293258913;0.0040321085262622
+_cal_centred_0057 LINCOM 1 _cal_complex_0057 1;0 -0.00589390693313165;-0.00678703565520421
+_cal_centred_0058 LINCOM 1 _cal_complex_0058 1;0 0.00724096137138819;-0.00161440583204757
+_cal_centred_0059 LINCOM 1 _cal_complex_0059 1;0 0.000542641399754178;0.00722700791676233
+_cal_centred_0060 LINCOM 1 _cal_complex_0060 1;0 0.00390885063872985;0.00542895101976471
+_cal_centred_0061 LINCOM 1 _cal_complex_0061 1;0 0.00876176425801138;0.00390476960523599
+_cal_centred_0062 LINCOM 1 _cal_complex_0062 1;0 -0.0018631618368854;0.00129453649307746
+_cal_centred_0063 LINCOM 1 _cal_complex_0063 1;0 -0.00182526018450888;0.0107236434101434
+_cal_centred_0064 LINCOM 1 _cal_complex_0064 1;0 0.00456008763353198;0.0002212770668693
+_cal_centred_0065 LINCOM 1 _cal_complex_0065 1;0 0.00413354715046364;-0.00810576034940356
+_cal_centred_0066 LINCOM 1 _cal_complex_0066 1;0 -0.00140691901794932;0.00205753150185617
+_cal_centred_0067 LINCOM 1 _cal_complex_0067 1;0 -0.00623654878111972;0.00535074317877721
+_cal_centred_0068 LINCOM 1 _cal_complex_0068 1;0 0.00465170366817215;-0.00276359001585699
+_cal_centred_0069 LINCOM 1 _cal_complex_0069 1;0 -0.00487144046013575;-0.000766924192818966
+_cal_centred_0070 LINCOM 1 _cal_complex_0070 1;0 0.00378005940505729;-0.00626260565431026
+_cal_centred_0071 LINCOM 1 _cal_complex_0071 1;0 -0.0062695177371927;0.00715819963965457
+_cal_centred_0072 LINCOM 1 _cal_complex_0072 1;0 -0.00392784065684115;0.00465068361780214
+_cal_centred_0073 LINCOM 1 _cal_complex_0073 1;0 0.00603640666442028;-0.00333246916134632
+_cal_centred_0074 LINCOM 1 _cal_complex_0074 1;0 0.00624572898882911;0.00664492801640029
+_cal_centred_0075 LINCOM 1 _cal_complex_0075 1;0 0.00425199912733842;-0.00529445867580928
+_cal_centred_0076 LINCOM 1 _cal_complex_0076 1;0 -0.00500342488875782;-0.0034850974230773
+_cal_centred_0077 LINCOM 1 _cal_complex_0077 1;0 0.00523936979079741;0.00533608642752599
+_cal_centred_0078 LINCOM 1 _cal_complex_0078 1;0 0.00928026639608591;0.00304419413468055
+_cal_centred_0079 LINCOM 1 _cal_complex_0079 1;0 -0.00412120749431969;-0.00718659342160481
+_cal_centred_0080 LINCOM 1 _cal_complex_0080 1;0 0.000787650713700683;-0.00809479930035689
+_cal_centred_0081 LINCOM 1 _cal_complex_0081 1;0 0.00844546231240905;-0.000553299240515739
+_cal_centred_0082 LINCOM 1 _cal_complex_0082 1;0 0.00431184933924805;-0.00902569045429651
+_cal_centred_0083 LINCOM 1 _cal_complex_0083 1;0 -0.00294304736217346;0.011106459479329
+_cal_centred_0084 LINCOM 1 _cal_complex_0084 1;0 0.00856903791127164;0.00379291297679117
+_cal_centred_0085 LINCOM 1 _cal_complex_0085 1;0 0.006408578071104;0.00638554898874525
+_cal_centred_0086 LINCOM 1 _cal_complex_0086 1;0 0.00174911968827546;-0.00954778115697928
+_cal_centred_0087 LINCOM 1 _cal_complex_0087 1;0 0.00393289033419189;-0.0142692176775313
+_cal_centred_0088 LINCOM 1 _cal_complex_0088 1;0 0.0053134222271718;-0.00862454990519391
+_cal_centred_0089 LINCOM 1 _cal_complex_0089 1;0 0.00663759428568988;0.00782469610119167
+_cal_centred_0090 LINCOM 1 _cal_complex_0090 1;0 0.0083273412941296;-0.00556497335513555
+_cal_centred_0091 LINCOM 1 _cal_complex_0091 1;0 0.00660331558497473;0.0113103858477031
+_cal_centred_0092 LINCOM 1 _cal_complex_0092 1;0 -0.0107456681182772;-0.00673572945878787
+_cal_centred_0093 LINCOM 1 _cal_complex_0093 1;0 -0.0127888029261784;-0.00244598853923561
+_cal_centred_0094 LINCOM 1 _cal_complex_0094 1;0 -0.0127888029261784;-0.00244598853923561
+_cal_centred_0095 LINCOM 1 _cal_complex_0095 1;0 0.0122290377714686;0.000973518476502228
+_cal_centred_0096 LINCOM 1 _cal_complex_0096 1;0 0.000385265877644343;-0.0091849774062325
+_cal_centred_0097 LINCOM 1 _cal_complex_0097 1;0 0.00166199959812399;-0.00621601784855635
+_cal_centred_0098 LINCOM 1 _cal_complex_0098 1;0 0.00764204337767868;0.00800793395756916
+_cal_centred_0099 LINCOM 1 _cal_complex_0099 1;0 -0.00832258062878654;-0.0118795374104724
+_cal_centred_0100 LINCOM 1 _cal_complex_0100 1;0 0.0060561425645687;-0.00897427222179773
+_cal_centred_0101 LINCOM 1 _cal_complex_0101 1;0 -0.000927081549089548;0.014997361580618
+_cal_centred_0102 LINCOM 1 _cal_complex_0102 1;0 -0.00550492434793283;0.00822268478920083
+_cal_centred_0103 LINCOM 1 _cal_complex_0103 1;0 -0.00396457611877097;0.0131402314801944
+_cal_centred_0104 LINCOM 1 _cal_complex_0104 1;0 0.00368029204694001;0.0105156684908754
+_cal_centred_0105 LINCOM 1 _cal_complex_0105 1;0 -0.00188021407693763;-0.0124757704564458
+_cal_centred_0106 LINCOM 1 _cal_complex_0106 1;0 0.000822294815059253;-0.0133344643697864
+_cal_centred_0107 LINCOM 1 _cal_complex_0107 1;0 0.00360712598479043;0.0131718455714778
+_cal_centred_0108 LINCOM 1 _cal_complex_0108 1;0 0.012787095028963;0.00777196984093659
+_cal_centred_0109 LINCOM 1 _cal_complex_0109 1;0 0.00421010246240816;-0.0158019498373998
+_cal_centred_0110 LINCOM 1 _cal_complex_0110 1;0 -0.00467481459560716;0.00459079205310236
+_cal_centred_0111 LINCOM 1 _cal_complex_0111 1;0 -0.00304672112491696;0.00518574914927778
+_cal_centred_0112 LINCOM 1 _cal_complex_0112 1;0 -0.00623444381546839;0.00577972258907575
+_cal_centred_0113 LINCOM 1 _cal_complex_0113 1;0 -0.00623444381546839;0.00577972258907575
+_cal_centred_0114 LINCOM 1 _cal_complex_0114 1;0 0.00755053034986388;0.0105138990028998
+_cal_centred_0115 LINCOM 1 _cal_complex_0115 1;0 -0.00637287632024415;-0.012041523921767
+_cal_centred_0116 LINCOM 1 _cal_complex_0116 1;0 -0.00675225991020002;0.0108580294191869
+_cal_centred_0117 LINCOM 1 _cal_complex_0117 1;0 -0.00319118092497576;-0.0101007134344922
+_cal_centred_0118 LINCOM 1 _cal_complex_0118 1;0 0.00384839164794214;0.012512846914581
+_cal_centred_0119 LINCOM 1 _cal_complex_0119 1;0 -0.00828730715045008;0.00424954000874609
+_cal_centred_0120 LINCOM 1 _cal_complex_0120 1;0 0.0110278388561958;0.00271391626133086
+_cal_centred_0121 LINCOM 1 _cal_complex_0121 1;0 -0.00169821403805419;0.012207642217439
+_cal_centred_0122 LINCOM 1 _cal_complex_0122 1;0 0.00275785002101727;-0.0139576385839818
+_cal_centred_0123 LINCOM 1 _cal_complex_0123 1;0 0.00544409621024932;0.0100642275583061
+_cal_centred_0124 LINCOM 1 _cal_complex_0124 1;0 -0.0179725714455405;0.00265861632029868
+_cal_centred_0125 LINCOM 1 _cal_complex_0125 1;0 0.00248195818964755;0.0165190386667657
+_cal_centred_0126 LINCOM 1 _cal_complex_0126 1;0 0.00476475177538312;0.0120696980922753
+_cal_centred_0127 LINCOM 1 _cal_complex_0127 1;0 0.00447096033224175;0.0208061940036673
+_cal_centred_0128 LINCOM 1 _cal_complex_0128 1;0 -0.00797521158708351;0.00299114952051354
+_cal_centred_0129 LINCOM 1 _cal_complex_0129 1;0 0.00742015747472314;0.0130470006983131
+_cal_centred_0130 LINCOM 1 _cal_complex_0130 1;0 0.00151703032823903;0.0102798055708375
+_cal_centred_0131 LINCOM 1 _cal_complex_0131 1;0 -0.00501562615864682;0.0034820397130945
+_cal_centred_0132 LINCOM 1 _cal_complex_0132 1;0 -0.00634607976505838;-0.0105338902077112
+_cal_complex_0000 LINCOM 2 I0000 1;0 0;0 Q0000 0;1 0;0
+_cal_complex_0001 LINCOM 2 I0001 1;0 0;0 Q0001 0;1 0;0
+_cal_complex_0002 LINCOM 2 I0002 1;0 0;0 Q0002 0;1 0;0
+_cal_complex_0003 LINCOM 2 I0003 1;0 0;0 Q0003 0;1 0;0
+_cal_complex_0004 LINCOM 2 I0004 1;0 0;0 Q0004 0;1 0;0
+_cal_complex_0005 LINCOM 2 I0005 1;0 0;0 Q0005 0;1 0;0
+_cal_complex_0006 LINCOM 2 I0006 1;0 0;0 Q0006 0;1 0;0
+_cal_complex_0007 LINCOM 2 I0007 1;0 0;0 Q0007 0;1 0;0
+_cal_complex_0008 LINCOM 2 I0008 1;0 0;0 Q0008 0;1 0;0
+_cal_complex_0009 LINCOM 2 I0009 1;0 0;0 Q0009 0;1 0;0
+_cal_complex_0010 LINCOM 2 I0010 1;0 0;0 Q0010 0;1 0;0
+_cal_complex_0011 LINCOM 2 I0011 1;0 0;0 Q0011 0;1 0;0
+_cal_complex_0012 LINCOM 2 I0012 1;0 0;0 Q0012 0;1 0;0
+_cal_complex_0013 LINCOM 2 I0013 1;0 0;0 Q0013 0;1 0;0
+_cal_complex_0014 LINCOM 2 I0014 1;0 0;0 Q0014 0;1 0;0
+_cal_complex_0015 LINCOM 2 I0015 1;0 0;0 Q0015 0;1 0;0
+_cal_complex_0016 LINCOM 2 I0016 1;0 0;0 Q0016 0;1 0;0
+_cal_complex_0017 LINCOM 2 I0017 1;0 0;0 Q0017 0;1 0;0
+_cal_complex_0018 LINCOM 2 I0018 1;0 0;0 Q0018 0;1 0;0
+_cal_complex_0019 LINCOM 2 I0019 1;0 0;0 Q0019 0;1 0;0
+_cal_complex_0020 LINCOM 2 I0020 1;0 0;0 Q0020 0;1 0;0
+_cal_complex_0021 LINCOM 2 I0021 1;0 0;0 Q0021 0;1 0;0
+_cal_complex_0022 LINCOM 2 I0022 1;0 0;0 Q0022 0;1 0;0
+_cal_complex_0023 LINCOM 2 I0023 1;0 0;0 Q0023 0;1 0;0
+_cal_complex_0024 LINCOM 2 I0024 1;0 0;0 Q0024 0;1 0;0
+_cal_complex_0025 LINCOM 2 I0025 1;0 0;0 Q0025 0;1 0;0
+_cal_complex_0026 LINCOM 2 I0026 1;0 0;0 Q0026 0;1 0;0
+_cal_complex_0027 LINCOM 2 I0027 1;0 0;0 Q0027 0;1 0;0
+_cal_complex_0028 LINCOM 2 I0028 1;0 0;0 Q0028 0;1 0;0
+_cal_complex_0029 LINCOM 2 I0029 1;0 0;0 Q0029 0;1 0;0
+_cal_complex_0030 LINCOM 2 I0030 1;0 0;0 Q0030 0;1 0;0
+_cal_complex_0031 LINCOM 2 I0031 1;0 0;0 Q0031 0;1 0;0
+_cal_complex_0032 LINCOM 2 I0032 1;0 0;0 Q0032 0;1 0;0
+_cal_complex_0033 LINCOM 2 I0033 1;0 0;0 Q0033 0;1 0;0
+_cal_complex_0034 LINCOM 2 I0034 1;0 0;0 Q0034 0;1 0;0
+_cal_complex_0035 LINCOM 2 I0035 1;0 0;0 Q0035 0;1 0;0
+_cal_complex_0036 LINCOM 2 I0036 1;0 0;0 Q0036 0;1 0;0
+_cal_complex_0037 LINCOM 2 I0037 1;0 0;0 Q0037 0;1 0;0
+_cal_complex_0038 LINCOM 2 I0038 1;0 0;0 Q0038 0;1 0;0
+_cal_complex_0039 LINCOM 2 I0039 1;0 0;0 Q0039 0;1 0;0
+_cal_complex_0040 LINCOM 2 I0040 1;0 0;0 Q0040 0;1 0;0
+_cal_complex_0041 LINCOM 2 I0041 1;0 0;0 Q0041 0;1 0;0
+_cal_complex_0042 LINCOM 2 I0042 1;0 0;0 Q0042 0;1 0;0
+_cal_complex_0043 LINCOM 2 I0043 1;0 0;0 Q0043 0;1 0;0
+_cal_complex_0044 LINCOM 2 I0044 1;0 0;0 Q0044 0;1 0;0
+_cal_complex_0045 LINCOM 2 I0045 1;0 0;0 Q0045 0;1 0;0
+_cal_complex_0046 LINCOM 2 I0046 1;0 0;0 Q0046 0;1 0;0
+_cal_complex_0047 LINCOM 2 I0047 1;0 0;0 Q0047 0;1 0;0
+_cal_complex_0048 LINCOM 2 I0048 1;0 0;0 Q0048 0;1 0;0
+_cal_complex_0049 LINCOM 2 I0049 1;0 0;0 Q0049 0;1 0;0
+_cal_complex_0050 LINCOM 2 I0050 1;0 0;0 Q0050 0;1 0;0
+_cal_complex_0051 LINCOM 2 I0051 1;0 0;0 Q0051 0;1 0;0
+_cal_complex_0052 LINCOM 2 I0052 1;0 0;0 Q0052 0;1 0;0
+_cal_complex_0053 LINCOM 2 I0053 1;0 0;0 Q0053 0;1 0;0
+_cal_complex_0054 LINCOM 2 I0054 1;0 0;0 Q0054 0;1 0;0
+_cal_complex_0055 LINCOM 2 I0055 1;0 0;0 Q0055 0;1 0;0
+_cal_complex_0056 LINCOM 2 I0056 1;0 0;0 Q0056 0;1 0;0
+_cal_complex_0057 LINCOM 2 I0057 1;0 0;0 Q0057 0;1 0;0
+_cal_complex_0058 LINCOM 2 I0058 1;0 0;0 Q0058 0;1 0;0
+_cal_complex_0059 LINCOM 2 I0059 1;0 0;0 Q0059 0;1 0;0
+_cal_complex_0060 LINCOM 2 I0060 1;0 0;0 Q0060 0;1 0;0
+_cal_complex_0061 LINCOM 2 I0061 1;0 0;0 Q0061 0;1 0;0
+_cal_complex_0062 LINCOM 2 I0062 1;0 0;0 Q0062 0;1 0;0
+_cal_complex_0063 LINCOM 2 I0063 1;0 0;0 Q0063 0;1 0;0
+_cal_complex_0064 LINCOM 2 I0064 1;0 0;0 Q0064 0;1 0;0
+_cal_complex_0065 LINCOM 2 I0065 1;0 0;0 Q0065 0;1 0;0
+_cal_complex_0066 LINCOM 2 I0066 1;0 0;0 Q0066 0;1 0;0
+_cal_complex_0067 LINCOM 2 I0067 1;0 0;0 Q0067 0;1 0;0
+_cal_complex_0068 LINCOM 2 I0068 1;0 0;0 Q0068 0;1 0;0
+_cal_complex_0069 LINCOM 2 I0069 1;0 0;0 Q0069 0;1 0;0
+_cal_complex_0070 LINCOM 2 I0070 1;0 0;0 Q0070 0;1 0;0
+_cal_complex_0071 LINCOM 2 I0071 1;0 0;0 Q0071 0;1 0;0
+_cal_complex_0072 LINCOM 2 I0072 1;0 0;0 Q0072 0;1 0;0
+_cal_complex_0073 LINCOM 2 I0073 1;0 0;0 Q0073 0;1 0;0
+_cal_complex_0074 LINCOM 2 I0074 1;0 0;0 Q0074 0;1 0;0
+_cal_complex_0075 LINCOM 2 I0075 1;0 0;0 Q0075 0;1 0;0
+_cal_complex_0076 LINCOM 2 I0076 1;0 0;0 Q0076 0;1 0;0
+_cal_complex_0077 LINCOM 2 I0077 1;0 0;0 Q0077 0;1 0;0
+_cal_complex_0078 LINCOM 2 I0078 1;0 0;0 Q0078 0;1 0;0
+_cal_complex_0079 LINCOM 2 I0079 1;0 0;0 Q0079 0;1 0;0
+_cal_complex_0080 LINCOM 2 I0080 1;0 0;0 Q0080 0;1 0;0
+_cal_complex_0081 LINCOM 2 I0081 1;0 0;0 Q0081 0;1 0;0
+_cal_complex_0082 LINCOM 2 I0082 1;0 0;0 Q0082 0;1 0;0
+_cal_complex_0083 LINCOM 2 I0083 1;0 0;0 Q0083 0;1 0;0
+_cal_complex_0084 LINCOM 2 I0084 1;0 0;0 Q0084 0;1 0;0
+_cal_complex_0085 LINCOM 2 I0085 1;0 0;0 Q0085 0;1 0;0
+_cal_complex_0086 LINCOM 2 I0086 1;0 0;0 Q0086 0;1 0;0
+_cal_complex_0087 LINCOM 2 I0087 1;0 0;0 Q0087 0;1 0;0
+_cal_complex_0088 LINCOM 2 I0088 1;0 0;0 Q0088 0;1 0;0
+_cal_complex_0089 LINCOM 2 I0089 1;0 0;0 Q0089 0;1 0;0
+_cal_complex_0090 LINCOM 2 I0090 1;0 0;0 Q0090 0;1 0;0
+_cal_complex_0091 LINCOM 2 I0091 1;0 0;0 Q0091 0;1 0;0
+_cal_complex_0092 LINCOM 2 I0092 1;0 0;0 Q0092 0;1 0;0
+_cal_complex_0093 LINCOM 2 I0093 1;0 0;0 Q0093 0;1 0;0
+_cal_complex_0094 LINCOM 2 I0094 1;0 0;0 Q0094 0;1 0;0
+_cal_complex_0095 LINCOM 2 I0095 1;0 0;0 Q0095 0;1 0;0
+_cal_complex_0096 LINCOM 2 I0096 1;0 0;0 Q0096 0;1 0;0
+_cal_complex_0097 LINCOM 2 I0097 1;0 0;0 Q0097 0;1 0;0
+_cal_complex_0098 LINCOM 2 I0098 1;0 0;0 Q0098 0;1 0;0
+_cal_complex_0099 LINCOM 2 I0099 1;0 0;0 Q0099 0;1 0;0
+_cal_complex_0100 LINCOM 2 I0100 1;0 0;0 Q0100 0;1 0;0
+_cal_complex_0101 LINCOM 2 I0101 1;0 0;0 Q0101 0;1 0;0
+_cal_complex_0102 LINCOM 2 I0102 1;0 0;0 Q0102 0;1 0;0
+_cal_complex_0103 LINCOM 2 I0103 1;0 0;0 Q0103 0;1 0;0
+_cal_complex_0104 LINCOM 2 I0104 1;0 0;0 Q0104 0;1 0;0
+_cal_complex_0105 LINCOM 2 I0105 1;0 0;0 Q0105 0;1 0;0
+_cal_complex_0106 LINCOM 2 I0106 1;0 0;0 Q0106 0;1 0;0
+_cal_complex_0107 LINCOM 2 I0107 1;0 0;0 Q0107 0;1 0;0
+_cal_complex_0108 LINCOM 2 I0108 1;0 0;0 Q0108 0;1 0;0
+_cal_complex_0109 LINCOM 2 I0109 1;0 0;0 Q0109 0;1 0;0
+_cal_complex_0110 LINCOM 2 I0110 1;0 0;0 Q0110 0;1 0;0
+_cal_complex_0111 LINCOM 2 I0111 1;0 0;0 Q0111 0;1 0;0
+_cal_complex_0112 LINCOM 2 I0112 1;0 0;0 Q0112 0;1 0;0
+_cal_complex_0113 LINCOM 2 I0113 1;0 0;0 Q0113 0;1 0;0
+_cal_complex_0114 LINCOM 2 I0114 1;0 0;0 Q0114 0;1 0;0
+_cal_complex_0115 LINCOM 2 I0115 1;0 0;0 Q0115 0;1 0;0
+_cal_complex_0116 LINCOM 2 I0116 1;0 0;0 Q0116 0;1 0;0
+_cal_complex_0117 LINCOM 2 I0117 1;0 0;0 Q0117 0;1 0;0
+_cal_complex_0118 LINCOM 2 I0118 1;0 0;0 Q0118 0;1 0;0
+_cal_complex_0119 LINCOM 2 I0119 1;0 0;0 Q0119 0;1 0;0
+_cal_complex_0120 LINCOM 2 I0120 1;0 0;0 Q0120 0;1 0;0
+_cal_complex_0121 LINCOM 2 I0121 1;0 0;0 Q0121 0;1 0;0
+_cal_complex_0122 LINCOM 2 I0122 1;0 0;0 Q0122 0;1 0;0
+_cal_complex_0123 LINCOM 2 I0123 1;0 0;0 Q0123 0;1 0;0
+_cal_complex_0124 LINCOM 2 I0124 1;0 0;0 Q0124 0;1 0;0
+_cal_complex_0125 LINCOM 2 I0125 1;0 0;0 Q0125 0;1 0;0
+_cal_complex_0126 LINCOM 2 I0126 1;0 0;0 Q0126 0;1 0;0
+_cal_complex_0127 LINCOM 2 I0127 1;0 0;0 Q0127 0;1 0;0
+_cal_complex_0128 LINCOM 2 I0128 1;0 0;0 Q0128 0;1 0;0
+_cal_complex_0129 LINCOM 2 I0129 1;0 0;0 Q0129 0;1 0;0
+_cal_complex_0130 LINCOM 2 I0130 1;0 0;0 Q0130 0;1 0;0
+_cal_complex_0131 LINCOM 2 I0131 1;0 0;0 Q0131 0;1 0;0
+_cal_complex_0132 LINCOM 2 I0132 1;0 0;0 Q0132 0;1 0;0
+_cal_rotated_0000 LINCOM 1 _cal_centred_0000 0.946928743755116;0.321443547532622 0;0
+_cal_rotated_0001 LINCOM 1 _cal_centred_0001 -0.313162260409753;0.949699636019228 0;0
+_cal_rotated_0002 LINCOM 1 _cal_centred_0002 0.949857398862652;-0.312683421092127 0;0
+_cal_rotated_0003 LINCOM 1 _cal_centred_0003 -0.259503448348088;-0.965742181068763 0;0
+_cal_rotated_0004 LINCOM 1 _cal_centred_0004 0.495245842836434;0.868752873464733 0;0
+_cal_rotated_0005 LINCOM 1 _cal_centred_0005 -0.978268652723666;-0.207341368516328 0;0
+_cal_rotated_0006 LINCOM 1 _cal_centred_0006 -0.47349395998237;-0.880797065083788 0;0
+_cal_rotated_0007 LINCOM 1 _cal_centred_0007 -0.548546055458633;0.836120341243277 0;0
+_cal_rotated_0008 LINCOM 1 _cal_centred_0008 -0.145325843714305;-0.989383848235216 0;0
+_cal_rotated_0009 LINCOM 1 _cal_centred_0009 -0.394929329441772;-0.918711502456931 0;0
+_cal_rotated_0010 LINCOM 1 _cal_centred_0010 -0.686269888536554;0.727346987405616 0;0
+_cal_rotated_0011 LINCOM 1 _cal_centred_0011 -0.248291192212409;-0.968685441136461 0;0
+_cal_rotated_0012 LINCOM 1 _cal_centred_0012 0.891823368134808;-0.452383775182849 0;0
+_cal_rotated_0013 LINCOM 1 _cal_centred_0013 -0.997682897180852;-0.0680355544757431 0;0
+_cal_rotated_0014 LINCOM 1 _cal_centred_0014 -0.970658400107353;0.240462617263127 0;0
+_cal_rotated_0015 LINCOM 1 _cal_centred_0015 0.917999361657969;0.396581860396515 0;0
+_cal_rotated_0016 LINCOM 1 _cal_centred_0016 -0.522228533145962;-0.852805581107568 0;0
+_cal_rotated_0017 LINCOM 1 _cal_centred_0017 0.216783477446126;-0.976219710877815 0;0
+_cal_rotated_0018 LINCOM 1 _cal_centred_0018 -0.657332363644623;-0.753600798636369 0;0
+_cal_rotated_0019 LINCOM 1 _cal_centred_0019 -0.0829814800208472;0.996551089494939 0;0
+_cal_rotated_0020 LINCOM 1 _cal_centred_0020 -0.999763858723594;0.0217307797860306 0;0
+_cal_rotated_0021 LINCOM 1 _cal_centred_0021 0.223306298548775;-0.974748324968269 0;0
+_cal_rotated_0022 LINCOM 1 _cal_centred_0022 -0.643317998499748;0.765599080985785 0;0
+_cal_rotated_0023 LINCOM 1 _cal_centred_0023 0.990683051702905;-0.136187705277017 0;0
+_cal_rotated_0024 LINCOM 1 _cal_centred_0024 -0.612974762352328;0.790102487478117 0;0
+_cal_rotated_0025 LINCOM 1 _cal_centred_0025 0.506308127450849;0.86235264252927 0;0
+_cal_rotated_0026 LINCOM 1 _cal_centred_0026 -0.712992598642616;0.701171558379866 0;0
+_cal_rotated_0027 LINCOM 1 _cal_centred_0027 -0.874060839712857;0.485816476131116 0;0
+_cal_rotated_0028 LINCOM 1 _cal_centred_0028 -0.567937543845101;-0.823071653193812 0;0
+_cal_rotated_0029 LINCOM 1 _cal_centred_0029 -0.293358924158814;-0.956002375319425 0;0
+_cal_rotated_0030 LINCOM 1 _cal_centred_0030 -0.681158013856482;-0.732136435481183 0;0
+_cal_rotated_0031 LINCOM 1 _cal_centred_0031 -0.996904208208633;0.0786256933573089 0;0
+_cal_rotated_0032 LINCOM 1 _cal_centred_0032 -0.753977779114864;-0.656899922820072 0;0
+_cal_rotated_0033 LINCOM 1 _cal_centred_0033 0.562011277644184;-0.827129568931466 0;0
+_cal_rotated_0034 LINCOM 1 _cal_centred_0034 -0.772159531189669;0.635428720151167 0;0
+_cal_rotated_0035 LINCOM 1 _cal_centred_0035 -0.830540546890104;-0.556958167164723 0;0
+_cal_rotated_0036 LINCOM 1 _cal_centred_0036 0.864904072098314;0.50193719334968 0;0
+_cal_rotated_0037 LINCOM 1 _cal_centred_0037 -0.131275088885277;0.991345979483532 0;0
+_cal_rotated_0038 LINCOM 1 _cal_centred_0038 0.811365905469536;-0.584538593628856 0;0
+_cal_rotated_0039 LINCOM 1 _cal_centred_0039 -0.982745830582118;0.184961164771049 0;0
+_cal_rotated_0040 LINCOM 1 _cal_centred_0040 0.790958495083447;-0.611869805641142 0;0
+_cal_rotated_0041 LINCOM 1 _cal_centred_0041 -0.608650328210176;0.793438578574073 0;0
+_cal_rotated_0042 LINCOM 1 _cal_centred_0042 -0.954389822789134;-0.298563336926229 0;0
+_cal_rotated_0043 LINCOM 1 _cal_centred_0043 0.581853493667291;0.813293619738387 0;0
+_cal_rotated_0044 LINCOM 1 _cal_centred_0044 0.50997880828588;-0.860186965199609 0;0
+_cal_rotated_0045 LINCOM 1 _cal_centred_0045 0.237734619451143;-0.971330145066249 0;0
+_cal_rotated_0046 LINCOM 1 _cal_centred_0046 -0.0902201722769822;-0.995921844581346 0;0
+_cal_rotated_0047 LINCOM 1 _cal_centred_0047 0.0660622376063187;-0.997815504370646 0;0
+_cal_rotated_0048 LINCOM 1 _cal_centred_0048 -0.952476142865597;0.30461319287233 0;0
+_cal_rotated_0049 LINCOM 1 _cal_centred_0049 -0.956289201075894;-0.292422577626332 0;0
+_cal_rotated_0050 LINCOM 1 _cal_centred_0050 0.737833711641846;0.674982528636718 0;0
+_cal_rotated_0051 LINCOM 1 _cal_centred_0051 -0.960877484686626;0.276973752226278 0;0
+_cal_rotated_0052 LINCOM 1 _cal_centred_0052 0.983915435324932;-0.178634868179061 0;0
+_cal_rotated_0053 LINCOM 1 _cal_centred_0053 -0.311625179877459;-0.950205107998447 0;0
+_cal_rotated_0054 LINCOM 1 _cal_centred_0054 -0.860058378639477;0.51019563437179 0;0
+_cal_rotated_0055 LINCOM 1 _cal_centred_0055 0.883943365876484;0.467593975498993 0;0
+_cal_rotated_0056 LINCOM 1 _cal_centred_0056 0.906664103122003;-0.421853296905423 0;0
+_cal_rotated_0057 LINCOM 1 _cal_centred_0057 0.415336683966375;-0.909667762950746 0;0
+_cal_rotated_0058 LINCOM 1 _cal_centred_0058 -0.995622279955841;0.0934680461737264 0;0
+_cal_rotated_0059 LINCOM 1 _cal_centred_0059 0.618096804136926;-0.786101991293571 0;0
+_cal_rotated_0060 LINCOM 1 _cal_centred_0060 0.337843844429536;0.941202176358019 0;0
+_cal_rotated_0061 LINCOM 1 _cal_centred_0061 -0.80169900635884;0.597727950829848 0;0
+_cal_rotated_0062 LINCOM 1 _cal_centred_0062 -0.850554767881544;-0.525886477135487 0;0
+_cal_rotated_0063 LINCOM 1 _cal_centred_0063 -0.730908311138285;0.682475670415422 0;0
+_cal_rotated_0064 LINCOM 1 _cal_centred_0064 0.765261677693996;-0.643719321329546 0;0
+_cal_rotated_0065 LINCOM 1 _cal_centred_0065 0.90120836053721;-0.433386076031331 0;0
+_cal_rotated_0066 LINCOM 1 _cal_centred_0066 -0.849762598533579;0.527165558561502 0;0
+_cal_rotated_0067 LINCOM 1 _cal_centred_0067 -0.61973467605922;0.784811398547303 0;0
+_cal_rotated_0068 LINCOM 1 _cal_centred_0068 -0.0565700982442703;0.998398629799057 0;0
+_cal_rotated_0069 LINCOM 1 _cal_centred_0069 -0.918096929408865;0.396355936261857 0;0
+_cal_rotated_0070 LINCOM 1 _cal_centred_0070 0.859168946545635;-0.511692018006598 0;0
+_cal_rotated_0071 LINCOM 1 _cal_centred_0071 0.136468322769394;-0.990644435143361 0;0
+_cal_rotated_0072 LINCOM 1 _cal_centred_0072 -0.900047491254242;-0.435791823565961 0;0
+_cal_rotated_0073 LINCOM 1 _cal_centred_0073 -0.0598596952156359;0.998206800662413 0;0
+_cal_rotated_0074 LINCOM 1 _cal_centred_0074 0.685195462038722;-0.72835923746565 0;0
+_cal_rotated_0075 LINCOM 1 _cal_centred_0075 0.722568919671068;0.69129889073062 0;0
+_cal_rotated_0076 LINCOM 1 _cal_centred_0076 -0.936731784561708;-0.350047944990166 0;0
+_cal_rotated_0077 LINCOM 1 _cal_centred_0077 0.988356246699837;-0.152157581504871 0;0
+_cal_rotated_0078 LINCOM 1 _cal_centred_0078 0.997962896580318;0.0637969987461855 0;0
+_cal_rotated_0079 LINCOM 1 _cal_centred_0079 -0.991490466387937;-0.130179318871435 0;0
+_cal_rotated_0080 LINCOM 1 _cal_centred_0080 -0.260374551523897;0.965507686618149 0;0
+_cal_rotated_0081 LINCOM 1 _cal_centred_0081 0.942650892254814;0.333780309981284 0;0
+_cal_rotated_0082 LINCOM 1 _cal_centred_0082 0.462765356316448;0.886480809151169 0;0
+_cal_rotated_0083 LINCOM 1 _cal_centred_0083 0.175919244448699;-0.98440460148894 0;0
+_cal_rotated_0084 LINCOM 1 _cal_centred_0084 0.968148054039098;-0.250378404540622 0;0
+_cal_rotated_0085 LINCOM 1 _cal_centred_0085 0.988125704469183;-0.153647623370105 0;0
+_cal_rotated_0086 LINCOM 1 _cal_centred_0086 -0.183743689322649;0.982974189200358 0;0
+_cal_rotated_0087 LINCOM 1 _cal_centred_0087 0.377490575176479;0.926013426281137 0;0
+_cal_rotated_0088 LINCOM 1 _cal_centred_0088 0.844583646326612;-0.535423630742653 0;0
+_cal_rotated_0089 LINCOM 1 _cal_centred_0089 0.999974230171502;-0.0071790662980883 0;0
+_cal_rotated_0090 LINCOM 1 _cal_centred_0090 0.680121713747567;0.733099211900458 0;0
+_cal_rotated_0091 LINCOM 1 _cal_centred_0091 0.466131479574439;-0.884715459201287 0;0
+_cal_rotated_0092 LINCOM 1 _cal_centred_0092 -0.846319243680355;-0.532676015769728 0;0
+_cal_rotated_0093 LINCOM 1 _cal_centred_0093 -0.875401782924873;-0.483396026516513 0;0
+_cal_rotated_0094 LINCOM 1 _cal_centred_0094 -0.875401782924873;-0.483396026516513 0;0
+_cal_rotated_0095 LINCOM 1 _cal_centred_0095 0.985265156543831;-0.171033830865886 0;0
+_cal_rotated_0096 LINCOM 1 _cal_centred_0096 -0.654530368498267;-0.756035711268669 0;0
+_cal_rotated_0097 LINCOM 1 _cal_centred_0097 -0.445226503231977;-0.895417981067963 0;0
+_cal_rotated_0098 LINCOM 1 _cal_centred_0098 0.906924897000218;-0.421292334609999 0;0
+_cal_rotated_0099 LINCOM 1 _cal_centred_0099 -0.978592558144376;0.205807203820579 0;0
+_cal_rotated_0100 LINCOM 1 _cal_centred_0100 0.873243682901483;0.487283767708975 0;0
+_cal_rotated_0101 LINCOM 1 _cal_centred_0101 0.060400308595842;-0.998174234651209 0;0
+_cal_rotated_0102 LINCOM 1 _cal_centred_0102 -0.398672612851698;-0.917093314642518 0;0
+_cal_rotated_0103 LINCOM 1 _cal_centred_0103 -0.289597443753493;-0.957148536315781 0;0
+_cal_rotated_0104 LINCOM 1 _cal_centred_0104 0.280425573345421;-0.959875772073601 0;0
+_cal_rotated_0105 LINCOM 1 _cal_centred_0105 -0.766595979260269;0.642129741237696 0;0
+_cal_rotated_0106 LINCOM 1 _cal_centred_0106 -0.844384287702112;0.535737972036514 0;0
+_cal_rotated_0107 LINCOM 1 _cal_centred_0107 0.522036816587559;-0.852922952046155 0;0
+_cal_rotated_0108 LINCOM 1 _cal_centred_0108 0.941926888161123;0.335818012261259 0;0
+_cal_rotated_0109 LINCOM 1 _cal_centred_0109 -0.995482333188911;0.0949469552369238 0;0
+_cal_rotated_0110 LINCOM 1 _cal_centred_0110 -0.225720416376663;-0.974192123572525 0;0
+_cal_rotated_0111 LINCOM 1 _cal_centred_0111 -0.380095990806065;-0.924947045929201 0;0
+_cal_rotated_0112 LINCOM 1 _cal_centred_0112 0.984837572738562;0.173478976600674 0;0
+_cal_rotated_0113 LINCOM 1 _cal_centred_0113 0.984837572738562;0.173478976600674 0;0
+_cal_rotated_0114 LINCOM 1 _cal_centred_0114 0.0860679351574978;0.996289270512197 0;0
+_cal_rotated_0115 LINCOM 1 _cal_centred_0115 -0.99753972084658;-0.0701035329589576 0;0
+_cal_rotated_0116 LINCOM 1 _cal_centred_0116 0.915304130750428;-0.402763389884437 0;0
+_cal_rotated_0117 LINCOM 1 _cal_centred_0117 0.228969763494298;0.973433535176062 0;0
+_cal_rotated_0118 LINCOM 1 _cal_centred_0118 0.647047338128868;-0.762449829313605 0;0
+_cal_rotated_0119 LINCOM 1 _cal_centred_0119 -0.251094628649131;-0.967962544452808 0;0
+_cal_rotated_0120 LINCOM 1 _cal_centred_0120 0.314385041136108;-0.949295552454475 0;0
+_cal_rotated_0121 LINCOM 1 _cal_centred_0121 0.999348757761004;-0.0360840735164254 0;0
+_cal_rotated_0122 LINCOM 1 _cal_centred_0122 -0.320338297461235;0.947303211849109 0;0
+_cal_rotated_0123 LINCOM 1 _cal_centred_0123 -0.469549532720198;-0.882906131093359 0;0
+_cal_rotated_0124 LINCOM 1 _cal_centred_0124 -0.906792899478677;-0.421576372031278 0;0
+_cal_rotated_0125 LINCOM 1 _cal_centred_0125 0.0187235740366316;-0.999824698522343 0;0
+_cal_rotated_0126 LINCOM 1 _cal_centred_0126 -0.0463115534028113;-0.998927044393843 0;0
+_cal_rotated_0127 LINCOM 1 _cal_centred_0127 -0.872462067874565;-0.48868183935976 0;0
+_cal_rotated_0128 LINCOM 1 _cal_centred_0128 -0.306528264980578;-0.951861556513339 0;0
+_cal_rotated_0129 LINCOM 1 _cal_centred_0129 -0.744128608681758;-0.668036386539948 0;0
+_cal_rotated_0130 LINCOM 1 _cal_centred_0130 -0.464531268049599;-0.885556718118174 0;0
+_cal_rotated_0131 LINCOM 1 _cal_centred_0131 -0.664637359202227;0.747166099841722 0;0
+_cal_rotated_0132 LINCOM 1 _cal_centred_0132 -0.726776346625402;0.686874182063814 0;0
+_cal_i0_sub_i_0000 LINCOM 1 I0000 -1 -0.00269424552971032
+_cal_i0_sub_i_0001 LINCOM 1 I0001 -1 -0.00397602940211073
+_cal_i0_sub_i_0002 LINCOM 1 I0002 -1 0.00146258246240905
+_cal_i0_sub_i_0003 LINCOM 1 I0003 -1 0.00970928650349379
+_cal_i0_sub_i_0004 LINCOM 1 I0004 -1 -0.00260288512799889
+_cal_i0_sub_i_0005 LINCOM 1 I0005 -1 0.00512184572289698
+_cal_i0_sub_i_0006 LINCOM 1 I0006 -1 0.0114824287593365
+_cal_i0_sub_i_0007 LINCOM 1 I0007 -1 0.00901896879076958
+_cal_i0_sub_i_0008 LINCOM 1 I0008 -1 0.00194595371431205
+_cal_i0_sub_i_0009 LINCOM 1 I0009 -1 0.00132643220422324
+_cal_i0_sub_i_0010 LINCOM 1 I0010 -1 0.00677614941378124
+_cal_i0_sub_i_0011 LINCOM 1 I0011 -1 -0.00765653094276786
+_cal_i0_sub_i_0012 LINCOM 1 I0012 -1 -0.00502434224472381
+_cal_i0_sub_i_0013 LINCOM 1 I0013 -1 0.00429855892434716
+_cal_i0_sub_i_0014 LINCOM 1 I0014 -1 0.00241699030448217
+_cal_i0_sub_i_0015 LINCOM 1 I0015 -1 -0.0152557399123907
+_cal_i0_sub_i_0016 LINCOM 1 I0016 -1 0.00511734173051082
+_cal_i0_sub_i_0017 LINCOM 1 I0017 -1 -0.00562286013155244
+_cal_i0_sub_i_0018 LINCOM 1 I0018 -1 -0.0153928324580193
+_cal_i0_sub_i_0019 LINCOM 1 I0019 -1 -0.00207534991204739
+_cal_i0_sub_i_0020 LINCOM 1 I0020 -1 0.00281211180845276
+_cal_i0_sub_i_0021 LINCOM 1 I0021 -1 -0.00982454512268305
+_cal_i0_sub_i_0022 LINCOM 1 I0022 -1 0.00501302818884142
+_cal_i0_sub_i_0023 LINCOM 1 I0023 -1 -0.00436784652993083
+_cal_i0_sub_i_0024 LINCOM 1 I0024 -1 -0.00387742697785143
+_cal_i0_sub_i_0025 LINCOM 1 I0025 -1 -0.00377366114116739
+_cal_i0_sub_i_0026 LINCOM 1 I0026 -1 -0.00422914826776832
+_cal_i0_sub_i_0027 LINCOM 1 I0027 -1 0.00469981972128153
+_cal_i0_sub_i_0028 LINCOM 1 I0028 -1 0.00429277724470012
+_cal_i0_sub_i_0029 LINCOM 1 I0029 -1 -0.00713449055911042
+_cal_i0_sub_i_0030 LINCOM 1 I0030 -1 -0.0025795123365242
+_cal_i0_sub_i_0031 LINCOM 1 I0031 -1 0.00962946377694607
+_cal_i0_sub_i_0032 LINCOM 1 I0032 -1 0.00185745063936338
+_cal_i0_sub_i_0033 LINCOM 1 I0033 -1 0.004728430416435
+_cal_i0_sub_i_0034 LINCOM 1 I0034 -1 0.0049654184258543
+_cal_i0_sub_i_0035 LINCOM 1 I0035 -1 -0.0129324831068516
+_cal_i0_sub_i_0036 LINCOM 1 I0036 -1 -0.004297508392483
+_cal_i0_sub_i_0037 LINCOM 1 I0037 -1 -0.00526046945014969
+_cal_i0_sub_i_0038 LINCOM 1 I0038 -1 -0.00407564532360993
+_cal_i0_sub_i_0039 LINCOM 1 I0039 -1 0.0051589054055512
+_cal_i0_sub_i_0040 LINCOM 1 I0040 -1 -0.00272820208920166
+_cal_i0_sub_i_0041 LINCOM 1 I0041 -1 -0.000565787097002612
+_cal_i0_sub_i_0042 LINCOM 1 I0042 -1 0.000217698111555364
+_cal_i0_sub_i_0043 LINCOM 1 I0043 -1 0.00935845915228128
+_cal_i0_sub_i_0044 LINCOM 1 I0044 -1 -0.000474978038255358
+_cal_i0_sub_i_0045 LINCOM 1 I0045 -1 -0.000488102430608706
+_cal_i0_sub_i_0046 LINCOM 1 I0046 -1 -0.00115836316399509
+_cal_i0_sub_i_0047 LINCOM 1 I0047 -1 -0.00273622275562957
+_cal_i0_sub_i_0048 LINCOM 1 I0048 -1 -0.00714594963937998
+_cal_i0_sub_i_0049 LINCOM 1 I0049 -1 -0.00457995291799307
+_cal_i0_sub_i_0050 LINCOM 1 I0050 -1 0.000264134563622065
+_cal_i0_sub_i_0051 LINCOM 1 I0051 -1 -0.0074230223253835
+_cal_i0_sub_i_0052 LINCOM 1 I0052 -1 0.000903344531252515
+_cal_i0_sub_i_0053 LINCOM 1 I0053 -1 0.00422933080699295
+_cal_i0_sub_i_0054 LINCOM 1 I0054 -1 -0.00992290570866317
+_cal_i0_sub_i_0055 LINCOM 1 I0055 -1 -0.000243168307861197
+_cal_i0_sub_i_0056 LINCOM 1 I0056 -1 0.0125373500632122
+_cal_i0_sub_i_0057 LINCOM 1 I0057 -1 0.00646639429032803
+_cal_i0_sub_i_0058 LINCOM 1 I0058 -1 -0.00830509141087532
+_cal_i0_sub_i_0059 LINCOM 1 I0059 -1 0.00020229752681189
+_cal_i0_sub_i_0060 LINCOM 1 I0060 -1 -0.00344990614394192
+_cal_i0_sub_i_0061 LINCOM 1 I0061 -1 -0.00978128239512444
+_cal_i0_sub_i_0062 LINCOM 1 I0062 -1 -0.000759136335545918
+_cal_i0_sub_i_0063 LINCOM 1 I0063 -1 -0.00336797461204696
+_cal_i0_sub_i_0064 LINCOM 1 I0064 -1 -0.00227135163731873
+_cal_i0_sub_i_0065 LINCOM 1 I0065 -1 -0.000698729836585699
+_cal_i0_sub_i_0066 LINCOM 1 I0066 -1 -0.00236156833125278
+_cal_i0_sub_i_0067 LINCOM 1 I0067 -1 0.00214378452801611
+_cal_i0_sub_i_0068 LINCOM 1 I0068 -1 -0.00485754341934808
+_cal_i0_sub_i_0069 LINCOM 1 I0069 -1 0.00076082764644525
+_cal_i0_sub_i_0070 LINCOM 1 I0070 -1 0.00252739471034147
+_cal_i0_sub_i_0071 LINCOM 1 I0071 -1 0.006502571166493
+_cal_i0_sub_i_0072 LINCOM 1 I0072 -1 -0.000882206910318928
+_cal_i0_sub_i_0073 LINCOM 1 I0073 -1 -0.00686975618009456
+_cal_i0_sub_i_0074 LINCOM 1 I0074 -1 -0.00440841933595948
+_cal_i0_sub_i_0075 LINCOM 1 I0075 -1 -0.00016880665680219
+_cal_i0_sub_i_0076 LINCOM 1 I0076 -1 0.000103095257145469
+_cal_i0_sub_i_0077 LINCOM 1 I0077 -1 -0.000384325436243671
+_cal_i0_sub_i_0078 LINCOM 1 I0078 -1 -0.00622294656932354
+_cal_i0_sub_i_0079 LINCOM 1 I0079 -1 -0.000745728819310898
+_cal_i0_sub_i_0080 LINCOM 1 I0080 -1 -0.00226738785568159
+_cal_i0_sub_i_0081 LINCOM 1 I0081 -1 -0.00310134404571727
+_cal_i0_sub_i_0082 LINCOM 1 I0082 -1 -0.00229338329518214
+_cal_i0_sub_i_0083 LINCOM 1 I0083 -1 0.0035167053429177
+_cal_i0_sub_i_0084 LINCOM 1 I0084 -1 -0.00253223020990845
+_cal_i0_sub_i_0085 LINCOM 1 I0085 -1 -0.000892872580152471
+_cal_i0_sub_i_0086 LINCOM 1 I0086 -1 -0.00270166642440017
+_cal_i0_sub_i_0087 LINCOM 1 I0087 -1 -0.00274968617304694
+_cal_i0_sub_i_0088 LINCOM 1 I0088 -1 0.000606754740147153
+_cal_i0_sub_i_0089 LINCOM 1 I0089 -1 -0.00125404499704018
+_cal_i0_sub_i_0090 LINCOM 1 I0090 -1 -0.00440458589582704
+_cal_i0_sub_i_0091 LINCOM 1 I0091 -1 -0.00528830161783844
+_cal_i0_sub_i_0092 LINCOM 1 I0092 -1 0.00582993356510997
+_cal_i0_sub_i_0093 LINCOM 1 I0093 -1 0.00763937560259365
+_cal_i0_sub_i_0094 LINCOM 1 I0094 -1 0.00763937560259365
+_cal_i0_sub_i_0095 LINCOM 1 I0095 -1 -0.00292679292033426
+_cal_i0_sub_i_0096 LINCOM 1 I0096 -1 -0.00257132029219065
+_cal_i0_sub_i_0097 LINCOM 1 I0097 -1 -0.00344374816631898
+_cal_i0_sub_i_0098 LINCOM 1 I0098 -1 0.000173254719811666
+_cal_i0_sub_i_0099 LINCOM 1 I0099 -1 0.00350121906376444
+_cal_i0_sub_i_0100 LINCOM 1 I0100 -1 0.000353356626874302
+_cal_i0_sub_i_0101 LINCOM 1 I0101 -1 0.0012007017430733
+_cal_i0_sub_i_0102 LINCOM 1 I0102 -1 0.00234874943271279
+_cal_i0_sub_i_0103 LINCOM 1 I0103 -1 0.00244822737295181
+_cal_i0_sub_i_0104 LINCOM 1 I0104 -1 -0.00145179012906738
+_cal_i0_sub_i_0105 LINCOM 1 I0105 -1 -0.00244224819471128
+_cal_i0_sub_i_0106 LINCOM 1 I0106 -1 -0.0102678202092648
+_cal_i0_sub_i_0107 LINCOM 1 I0107 -1 -0.000622356492385734
+_cal_i0_sub_i_0108 LINCOM 1 I0108 -1 -0.00130304074991727
+_cal_i0_sub_i_0109 LINCOM 1 I0109 -1 -0.0195530317723751
+_cal_i0_sub_i_0110 LINCOM 1 I0110 -1 0.00379590151715092
+_cal_i0_sub_i_0111 LINCOM 1 I0111 -1 0.000826296894956613
+_cal_i0_sub_i_0112 LINCOM 1 I0112 -1 0.0152928556781262
+_cal_i0_sub_i_0113 LINCOM 1 I0113 -1 0.0152928556781262
+_cal_i0_sub_i_0114 LINCOM 1 I0114 -1 -0.00690143654355779
+_cal_i0_sub_i_0115 LINCOM 1 I0115 -1 0.00106661902827909
+_cal_i0_sub_i_0116 LINCOM 1 I0116 -1 0.0116188955144025
+_cal_i0_sub_i_0117 LINCOM 1 I0117 -1 0.00472845276817679
+_cal_i0_sub_i_0118 LINCOM 1 I0118 -1 0.000162928056852252
+_cal_i0_sub_i_0119 LINCOM 1 I0119 -1 0.00743728305678815
+_cal_i0_sub_i_0120 LINCOM 1 I0120 -1 -0.00889446394285187
+_cal_i0_sub_i_0121 LINCOM 1 I0121 -1 0.00776326956111006
+_cal_i0_sub_i_0122 LINCOM 1 I0122 -1 -0.00512983655789867
+_cal_i0_sub_i_0123 LINCOM 1 I0123 -1 -0.00852685392601416
+_cal_i0_sub_i_0124 LINCOM 1 I0124 -1 0.0136803017812781
+_cal_i0_sub_i_0125 LINCOM 1 I0125 -1 -0.00235675893782172
+_cal_i0_sub_i_0126 LINCOM 1 I0126 -1 -0.00499975855927914
+_cal_i0_sub_i_0127 LINCOM 1 I0127 -1 -0.00609799465746619
+_cal_i0_sub_i_0128 LINCOM 1 I0128 -1 0.00659727686434053
+_cal_i0_sub_i_0129 LINCOM 1 I0129 -1 -0.013180959969759
+_cal_i0_sub_i_0130 LINCOM 1 I0130 -1 -0.00440548377810046
+_cal_i0_sub_i_0131 LINCOM 1 I0131 -1 0.00326550520549063
+_cal_i0_sub_i_0132 LINCOM 1 I0132 -1 0.00063016110289027
+_cal_i_sub_i0_0000 LINCOM 1 I0000 1 0.00269424552971032
+_cal_i_sub_i0_0001 LINCOM 1 I0001 1 0.00397602940211073
+_cal_i_sub_i0_0002 LINCOM 1 I0002 1 -0.00146258246240905
+_cal_i_sub_i0_0003 LINCOM 1 I0003 1 -0.00970928650349379
+_cal_i_sub_i0_0004 LINCOM 1 I0004 1 0.00260288512799889
+_cal_i_sub_i0_0005 LINCOM 1 I0005 1 -0.00512184572289698
+_cal_i_sub_i0_0006 LINCOM 1 I0006 1 -0.0114824287593365
+_cal_i_sub_i0_0007 LINCOM 1 I0007 1 -0.00901896879076958
+_cal_i_sub_i0_0008 LINCOM 1 I0008 1 -0.00194595371431205
+_cal_i_sub_i0_0009 LINCOM 1 I0009 1 -0.00132643220422324
+_cal_i_sub_i0_0010 LINCOM 1 I0010 1 -0.00677614941378124
+_cal_i_sub_i0_0011 LINCOM 1 I0011 1 0.00765653094276786
+_cal_i_sub_i0_0012 LINCOM 1 I0012 1 0.00502434224472381
+_cal_i_sub_i0_0013 LINCOM 1 I0013 1 -0.00429855892434716
+_cal_i_sub_i0_0014 LINCOM 1 I0014 1 -0.00241699030448217
+_cal_i_sub_i0_0015 LINCOM 1 I0015 1 0.0152557399123907
+_cal_i_sub_i0_0016 LINCOM 1 I0016 1 -0.00511734173051082
+_cal_i_sub_i0_0017 LINCOM 1 I0017 1 0.00562286013155244
+_cal_i_sub_i0_0018 LINCOM 1 I0018 1 0.0153928324580193
+_cal_i_sub_i0_0019 LINCOM 1 I0019 1 0.00207534991204739
+_cal_i_sub_i0_0020 LINCOM 1 I0020 1 -0.00281211180845276
+_cal_i_sub_i0_0021 LINCOM 1 I0021 1 0.00982454512268305
+_cal_i_sub_i0_0022 LINCOM 1 I0022 1 -0.00501302818884142
+_cal_i_sub_i0_0023 LINCOM 1 I0023 1 0.00436784652993083
+_cal_i_sub_i0_0024 LINCOM 1 I0024 1 0.00387742697785143
+_cal_i_sub_i0_0025 LINCOM 1 I0025 1 0.00377366114116739
+_cal_i_sub_i0_0026 LINCOM 1 I0026 1 0.00422914826776832
+_cal_i_sub_i0_0027 LINCOM 1 I0027 1 -0.00469981972128153
+_cal_i_sub_i0_0028 LINCOM 1 I0028 1 -0.00429277724470012
+_cal_i_sub_i0_0029 LINCOM 1 I0029 1 0.00713449055911042
+_cal_i_sub_i0_0030 LINCOM 1 I0030 1 0.0025795123365242
+_cal_i_sub_i0_0031 LINCOM 1 I0031 1 -0.00962946377694607
+_cal_i_sub_i0_0032 LINCOM 1 I0032 1 -0.00185745063936338
+_cal_i_sub_i0_0033 LINCOM 1 I0033 1 -0.004728430416435
+_cal_i_sub_i0_0034 LINCOM 1 I0034 1 -0.0049654184258543
+_cal_i_sub_i0_0035 LINCOM 1 I0035 1 0.0129324831068516
+_cal_i_sub_i0_0036 LINCOM 1 I0036 1 0.004297508392483
+_cal_i_sub_i0_0037 LINCOM 1 I0037 1 0.00526046945014969
+_cal_i_sub_i0_0038 LINCOM 1 I0038 1 0.00407564532360993
+_cal_i_sub_i0_0039 LINCOM 1 I0039 1 -0.0051589054055512
+_cal_i_sub_i0_0040 LINCOM 1 I0040 1 0.00272820208920166
+_cal_i_sub_i0_0041 LINCOM 1 I0041 1 0.000565787097002612
+_cal_i_sub_i0_0042 LINCOM 1 I0042 1 -0.000217698111555364
+_cal_i_sub_i0_0043 LINCOM 1 I0043 1 -0.00935845915228128
+_cal_i_sub_i0_0044 LINCOM 1 I0044 1 0.000474978038255358
+_cal_i_sub_i0_0045 LINCOM 1 I0045 1 0.000488102430608706
+_cal_i_sub_i0_0046 LINCOM 1 I0046 1 0.00115836316399509
+_cal_i_sub_i0_0047 LINCOM 1 I0047 1 0.00273622275562957
+_cal_i_sub_i0_0048 LINCOM 1 I0048 1 0.00714594963937998
+_cal_i_sub_i0_0049 LINCOM 1 I0049 1 0.00457995291799307
+_cal_i_sub_i0_0050 LINCOM 1 I0050 1 -0.000264134563622065
+_cal_i_sub_i0_0051 LINCOM 1 I0051 1 0.0074230223253835
+_cal_i_sub_i0_0052 LINCOM 1 I0052 1 -0.000903344531252515
+_cal_i_sub_i0_0053 LINCOM 1 I0053 1 -0.00422933080699295
+_cal_i_sub_i0_0054 LINCOM 1 I0054 1 0.00992290570866317
+_cal_i_sub_i0_0055 LINCOM 1 I0055 1 0.000243168307861197
+_cal_i_sub_i0_0056 LINCOM 1 I0056 1 -0.0125373500632122
+_cal_i_sub_i0_0057 LINCOM 1 I0057 1 -0.00646639429032803
+_cal_i_sub_i0_0058 LINCOM 1 I0058 1 0.00830509141087532
+_cal_i_sub_i0_0059 LINCOM 1 I0059 1 -0.00020229752681189
+_cal_i_sub_i0_0060 LINCOM 1 I0060 1 0.00344990614394192
+_cal_i_sub_i0_0061 LINCOM 1 I0061 1 0.00978128239512444
+_cal_i_sub_i0_0062 LINCOM 1 I0062 1 0.000759136335545918
+_cal_i_sub_i0_0063 LINCOM 1 I0063 1 0.00336797461204696
+_cal_i_sub_i0_0064 LINCOM 1 I0064 1 0.00227135163731873
+_cal_i_sub_i0_0065 LINCOM 1 I0065 1 0.000698729836585699
+_cal_i_sub_i0_0066 LINCOM 1 I0066 1 0.00236156833125278
+_cal_i_sub_i0_0067 LINCOM 1 I0067 1 -0.00214378452801611
+_cal_i_sub_i0_0068 LINCOM 1 I0068 1 0.00485754341934808
+_cal_i_sub_i0_0069 LINCOM 1 I0069 1 -0.00076082764644525
+_cal_i_sub_i0_0070 LINCOM 1 I0070 1 -0.00252739471034147
+_cal_i_sub_i0_0071 LINCOM 1 I0071 1 -0.006502571166493
+_cal_i_sub_i0_0072 LINCOM 1 I0072 1 0.000882206910318928
+_cal_i_sub_i0_0073 LINCOM 1 I0073 1 0.00686975618009456
+_cal_i_sub_i0_0074 LINCOM 1 I0074 1 0.00440841933595948
+_cal_i_sub_i0_0075 LINCOM 1 I0075 1 0.00016880665680219
+_cal_i_sub_i0_0076 LINCOM 1 I0076 1 -0.000103095257145469
+_cal_i_sub_i0_0077 LINCOM 1 I0077 1 0.000384325436243671
+_cal_i_sub_i0_0078 LINCOM 1 I0078 1 0.00622294656932354
+_cal_i_sub_i0_0079 LINCOM 1 I0079 1 0.000745728819310898
+_cal_i_sub_i0_0080 LINCOM 1 I0080 1 0.00226738785568159
+_cal_i_sub_i0_0081 LINCOM 1 I0081 1 0.00310134404571727
+_cal_i_sub_i0_0082 LINCOM 1 I0082 1 0.00229338329518214
+_cal_i_sub_i0_0083 LINCOM 1 I0083 1 -0.0035167053429177
+_cal_i_sub_i0_0084 LINCOM 1 I0084 1 0.00253223020990845
+_cal_i_sub_i0_0085 LINCOM 1 I0085 1 0.000892872580152471
+_cal_i_sub_i0_0086 LINCOM 1 I0086 1 0.00270166642440017
+_cal_i_sub_i0_0087 LINCOM 1 I0087 1 0.00274968617304694
+_cal_i_sub_i0_0088 LINCOM 1 I0088 1 -0.000606754740147153
+_cal_i_sub_i0_0089 LINCOM 1 I0089 1 0.00125404499704018
+_cal_i_sub_i0_0090 LINCOM 1 I0090 1 0.00440458589582704
+_cal_i_sub_i0_0091 LINCOM 1 I0091 1 0.00528830161783844
+_cal_i_sub_i0_0092 LINCOM 1 I0092 1 -0.00582993356510997
+_cal_i_sub_i0_0093 LINCOM 1 I0093 1 -0.00763937560259365
+_cal_i_sub_i0_0094 LINCOM 1 I0094 1 -0.00763937560259365
+_cal_i_sub_i0_0095 LINCOM 1 I0095 1 0.00292679292033426
+_cal_i_sub_i0_0096 LINCOM 1 I0096 1 0.00257132029219065
+_cal_i_sub_i0_0097 LINCOM 1 I0097 1 0.00344374816631898
+_cal_i_sub_i0_0098 LINCOM 1 I0098 1 -0.000173254719811666
+_cal_i_sub_i0_0099 LINCOM 1 I0099 1 -0.00350121906376444
+_cal_i_sub_i0_0100 LINCOM 1 I0100 1 -0.000353356626874302
+_cal_i_sub_i0_0101 LINCOM 1 I0101 1 -0.0012007017430733
+_cal_i_sub_i0_0102 LINCOM 1 I0102 1 -0.00234874943271279
+_cal_i_sub_i0_0103 LINCOM 1 I0103 1 -0.00244822737295181
+_cal_i_sub_i0_0104 LINCOM 1 I0104 1 0.00145179012906738
+_cal_i_sub_i0_0105 LINCOM 1 I0105 1 0.00244224819471128
+_cal_i_sub_i0_0106 LINCOM 1 I0106 1 0.0102678202092648
+_cal_i_sub_i0_0107 LINCOM 1 I0107 1 0.000622356492385734
+_cal_i_sub_i0_0108 LINCOM 1 I0108 1 0.00130304074991727
+_cal_i_sub_i0_0109 LINCOM 1 I0109 1 0.0195530317723751
+_cal_i_sub_i0_0110 LINCOM 1 I0110 1 -0.00379590151715092
+_cal_i_sub_i0_0111 LINCOM 1 I0111 1 -0.000826296894956613
+_cal_i_sub_i0_0112 LINCOM 1 I0112 1 -0.0152928556781262
+_cal_i_sub_i0_0113 LINCOM 1 I0113 1 -0.0152928556781262
+_cal_i_sub_i0_0114 LINCOM 1 I0114 1 0.00690143654355779
+_cal_i_sub_i0_0115 LINCOM 1 I0115 1 -0.00106661902827909
+_cal_i_sub_i0_0116 LINCOM 1 I0116 1 -0.0116188955144025
+_cal_i_sub_i0_0117 LINCOM 1 I0117 1 -0.00472845276817679
+_cal_i_sub_i0_0118 LINCOM 1 I0118 1 -0.000162928056852252
+_cal_i_sub_i0_0119 LINCOM 1 I0119 1 -0.00743728305678815
+_cal_i_sub_i0_0120 LINCOM 1 I0120 1 0.00889446394285187
+_cal_i_sub_i0_0121 LINCOM 1 I0121 1 -0.00776326956111006
+_cal_i_sub_i0_0122 LINCOM 1 I0122 1 0.00512983655789867
+_cal_i_sub_i0_0123 LINCOM 1 I0123 1 0.00852685392601416
+_cal_i_sub_i0_0124 LINCOM 1 I0124 1 -0.0136803017812781
+_cal_i_sub_i0_0125 LINCOM 1 I0125 1 0.00235675893782172
+_cal_i_sub_i0_0126 LINCOM 1 I0126 1 0.00499975855927914
+_cal_i_sub_i0_0127 LINCOM 1 I0127 1 0.00609799465746619
+_cal_i_sub_i0_0128 LINCOM 1 I0128 1 -0.00659727686434053
+_cal_i_sub_i0_0129 LINCOM 1 I0129 1 0.013180959969759
+_cal_i_sub_i0_0130 LINCOM 1 I0130 1 0.00440548377810046
+_cal_i_sub_i0_0131 LINCOM 1 I0131 1 -0.00326550520549063
+_cal_i_sub_i0_0132 LINCOM 1 I0132 1 -0.00063016110289027
+_cal_q0_sub_q_0000 LINCOM 1 Q0000 -1 -0.00561594218015671
+_cal_q0_sub_q_0001 LINCOM 1 Q0001 -1 0.00986058410489932
+_cal_q0_sub_q_0002 LINCOM 1 Q0002 -1 -0.00964457355439663
+_cal_q0_sub_q_0003 LINCOM 1 Q0003 -1 5.55784542939364e-05
+_cal_q0_sub_q_0004 LINCOM 1 Q0004 -1 0.00205484936304856
+_cal_q0_sub_q_0005 LINCOM 1 Q0005 -1 0.00618513053632341
+_cal_q0_sub_q_0006 LINCOM 1 Q0006 -1 0.00226449697220232
+_cal_q0_sub_q_0007 LINCOM 1 Q0007 -1 -0.00287198931619059
+_cal_q0_sub_q_0008 LINCOM 1 Q0008 -1 -0.00322244016570039
+_cal_q0_sub_q_0009 LINCOM 1 Q0009 -1 -0.0128659745678306
+_cal_q0_sub_q_0010 LINCOM 1 Q0010 -1 0.0148364483029582
+_cal_q0_sub_q_0011 LINCOM 1 Q0011 -1 -0.00441516979481094
+_cal_q0_sub_q_0012 LINCOM 1 Q0012 -1 0.000705338596162619
+_cal_q0_sub_q_0013 LINCOM 1 Q0013 -1 -0.000123484082450886
+_cal_q0_sub_q_0014 LINCOM 1 Q0014 -1 -0.00917940423823893
+_cal_q0_sub_q_0015 LINCOM 1 Q0015 -1 -0.0121638916898519
+_cal_q0_sub_q_0016 LINCOM 1 Q0016 -1 0.00188566270662704
+_cal_q0_sub_q_0017 LINCOM 1 Q0017 -1 0.0106607814668678
+_cal_q0_sub_q_0018 LINCOM 1 Q0018 -1 0.00279034460254479
+_cal_q0_sub_q_0019 LINCOM 1 Q0019 -1 0.00275266270909924
+_cal_q0_sub_q_0020 LINCOM 1 Q0020 -1 -0.00224575471656863
+_cal_q0_sub_q_0021 LINCOM 1 Q0021 -1 0.00626852235291153
+_cal_q0_sub_q_0022 LINCOM 1 Q0022 -1 -0.000617677451373311
+_cal_q0_sub_q_0023 LINCOM 1 Q0023 -1 -0.000973980841081357
+_cal_q0_sub_q_0024 LINCOM 1 Q0024 -1 0.0123105066013522
+_cal_q0_sub_q_0025 LINCOM 1 Q0025 -1 -0.000263933394307969
+_cal_q0_sub_q_0026 LINCOM 1 Q0026 -1 0.00466605694964528
+_cal_q0_sub_q_0027 LINCOM 1 Q0027 -1 0.00673207486397587
+_cal_q0_sub_q_0028 LINCOM 1 Q0028 -1 0.00190769440087024
+_cal_q0_sub_q_0029 LINCOM 1 Q0029 -1 -0.00378088833531365
+_cal_q0_sub_q_0030 LINCOM 1 Q0030 -1 -0.00504725295468234
+_cal_q0_sub_q_0031 LINCOM 1 Q0031 -1 0.000284035366348689
+_cal_q0_sub_q_0032 LINCOM 1 Q0032 -1 -0.00464885312248953
+_cal_q0_sub_q_0033 LINCOM 1 Q0033 -1 -0.00561023131012917
+_cal_q0_sub_q_0034 LINCOM 1 Q0034 -1 -0.00136652812216198
+_cal_q0_sub_q_0035 LINCOM 1 Q0035 -1 -0.00312437039974611
+_cal_q0_sub_q_0036 LINCOM 1 Q0036 -1 0.00241100741550326
+_cal_q0_sub_q_0037 LINCOM 1 Q0037 -1 0.00415373593568802
+_cal_q0_sub_q_0038 LINCOM 1 Q0038 -1 0.00645910756429657
+_cal_q0_sub_q_0039 LINCOM 1 Q0039 -1 -0.00757695740321651
+_cal_q0_sub_q_0040 LINCOM 1 Q0040 -1 -0.00515563087537885
+_cal_q0_sub_q_0041 LINCOM 1 Q0041 -1 -0.0129781522555277
+_cal_q0_sub_q_0042 LINCOM 1 Q0042 -1 -0.00349759429809637
+_cal_q0_sub_q_0043 LINCOM 1 Q0043 -1 -0.00244323536753654
+_cal_q0_sub_q_0044 LINCOM 1 Q0044 -1 0.00488800558377989
+_cal_q0_sub_q_0045 LINCOM 1 Q0045 -1 0.00859478954225779
+_cal_q0_sub_q_0046 LINCOM 1 Q0046 -1 -0.000292592489131493
+_cal_q0_sub_q_0047 LINCOM 1 Q0047 -1 0.00916668586432934
+_cal_q0_sub_q_0048 LINCOM 1 Q0048 -1 -0.000146976121868647
+_cal_q0_sub_q_0049 LINCOM 1 Q0049 -1 0.00138911117392126
+_cal_q0_sub_q_0050 LINCOM 1 Q0050 -1 -0.00505269586574286
+_cal_q0_sub_q_0051 LINCOM 1 Q0051 -1 0.00273603278037626
+_cal_q0_sub_q_0052 LINCOM 1 Q0052 -1 -0.00548277600319125
+_cal_q0_sub_q_0053 LINCOM 1 Q0053 -1 0.0074435006827116
+_cal_q0_sub_q_0054 LINCOM 1 Q0054 -1 0.00524823926389217
+_cal_q0_sub_q_0055 LINCOM 1 Q0055 -1 -0.00748118991032243
+_cal_q0_sub_q_0056 LINCOM 1 Q0056 -1 -0.00264946316019632
+_cal_q0_sub_q_0057 LINCOM 1 Q0057 -1 0.0080408938229084
+_cal_q0_sub_q_0058 LINCOM 1 Q0058 -1 0.00151450634439243
+_cal_q0_sub_q_0059 LINCOM 1 Q0059 -1 -0.0062795867852401
+_cal_q0_sub_q_0060 LINCOM 1 Q0060 -1 -0.00670752857695334
+_cal_q0_sub_q_0061 LINCOM 1 Q0061 -1 -0.00466489838436246
+_cal_q0_sub_q_0062 LINCOM 1 Q0062 -1 0.000326794901411631
+_cal_q0_sub_q_0063 LINCOM 1 Q0063 -1 -0.0155727555975318
+_cal_q0_sub_q_0064 LINCOM 1 Q0064 -1 0.00170395142049529
+_cal_q0_sub_q_0065 LINCOM 1 Q0065 -1 0.00975754484534264
+_cal_q0_sub_q_0066 LINCOM 1 Q0066 -1 -0.00439538061618805
+_cal_q0_sub_q_0067 LINCOM 1 Q0067 -1 -0.0105336838169023
+_cal_q0_sub_q_0068 LINCOM 1 Q0068 -1 -0.000869250157848001
+_cal_q0_sub_q_0069 LINCOM 1 Q0069 -1 -0.00100768776610494
+_cal_q0_sub_q_0070 LINCOM 1 Q0070 -1 0.0100191123783588
+_cal_q0_sub_q_0071 LINCOM 1 Q0071 -1 -0.00546642913832329
+_cal_q0_sub_q_0072 LINCOM 1 Q0072 -1 -0.0023217182897497
+_cal_q0_sub_q_0073 LINCOM 1 Q0073 -1 -0.0105642797425389
+_cal_q0_sub_q_0074 LINCOM 1 Q0074 -1 -0.00469187734415755
+_cal_q0_sub_q_0075 LINCOM 1 Q0075 -1 0.00138797121326206
+_cal_q0_sub_q_0076 LINCOM 1 Q0076 -1 0.00531630497425795
+_cal_q0_sub_q_0077 LINCOM 1 Q0077 -1 -0.00458865167456679
+_cal_q0_sub_q_0078 LINCOM 1 Q0078 -1 -0.00323964010749478
+_cal_q0_sub_q_0079 LINCOM 1 Q0079 -1 0.00782560557126999
+_cal_q0_sub_q_0080 LINCOM 1 Q0080 -1 0.00260771319153719
+_cal_q0_sub_q_0081 LINCOM 1 Q0081 -1 -0.00133898290368961
+_cal_q0_sub_q_0082 LINCOM 1 Q0082 -1 0.00515908421948552
+_cal_q0_sub_q_0083 LINCOM 1 Q0083 -1 -0.00789639819413424
+_cal_q0_sub_q_0084 LINCOM 1 Q0084 -1 -0.00223169899254572
+_cal_q0_sub_q_0085 LINCOM 1 Q0085 -1 -0.00552788985078223
+_cal_q0_sub_q_0086 LINCOM 1 Q0086 -1 0.00445193890482187
+_cal_q0_sub_q_0087 LINCOM 1 Q0087 -1 0.0113667268306017
+_cal_q0_sub_q_0088 LINCOM 1 Q0088 -1 0.0123776448890567
+_cal_q0_sub_q_0089 LINCOM 1 Q0089 -1 -0.00778604624792933
+_cal_q0_sub_q_0090 LINCOM 1 Q0090 -1 0.00133665828616358
+_cal_q0_sub_q_0091 LINCOM 1 Q0091 -1 -0.00881449523149058
+_cal_q0_sub_q_0092 LINCOM 1 Q0092 -1 0.00982970837503672
+_cal_q0_sub_q_0093 LINCOM 1 Q0093 -1 0.00528949737781659
+_cal_q0_sub_q_0094 LINCOM 1 Q0094 -1 0.00528949737781659
+_cal_q0_sub_q_0095 LINCOM 1 Q0095 -1 0.000641273807559628
+_cal_q0_sub_q_0096 LINCOM 1 Q0096 -1 0.0117100477218628
+_cal_q0_sub_q_0097 LINCOM 1 Q0097 -1 0.00979938427917659
+_cal_q0_sub_q_0098 LINCOM 1 Q0098 -1 -0.00437750635319389
+_cal_q0_sub_q_0099 LINCOM 1 Q0099 -1 0.0108655598014593
+_cal_q0_sub_q_0100 LINCOM 1 Q0100 -1 0.00539767043665051
+_cal_q0_sub_q_0101 LINCOM 1 Q0101 -1 -0.0104755199863575
+_cal_q0_sub_q_0102 LINCOM 1 Q0102 -1 -0.000962324229476508
+_cal_q0_sub_q_0103 LINCOM 1 Q0103 -1 -0.00812854710966349
+_cal_q0_sub_q_0104 LINCOM 1 Q0104 -1 -0.00288767303572968
+_cal_q0_sub_q_0105 LINCOM 1 Q0105 -1 0.0088551128283143
+_cal_q0_sub_q_0106 LINCOM 1 Q0106 -1 0.00734154539532028
+_cal_q0_sub_q_0107 LINCOM 1 Q0107 -1 -0.0082952193915844
+_cal_q0_sub_q_0108 LINCOM 1 Q0108 -1 -0.0118662921595387
+_cal_q0_sub_q_0109 LINCOM 1 Q0109 -1 0.014338574372232
+_cal_q0_sub_q_0110 LINCOM 1 Q0110 -1 -0.0007974701547937
+_cal_q0_sub_q_0111 LINCOM 1 Q0111 -1 0.000217556546886044
+_cal_q0_sub_q_0112 LINCOM 1 Q0112 -1 -0.00737536035012454
+_cal_q0_sub_q_0113 LINCOM 1 Q0113 -1 -0.00737536035012454
+_cal_q0_sub_q_0114 LINCOM 1 Q0114 -1 -0.0180275589227676
+_cal_q0_sub_q_0115 LINCOM 1 Q0115 -1 0.0124144287547097
+_cal_q0_sub_q_0116 LINCOM 1 Q0116 -1 -0.00871655251830816
+_cal_q0_sub_q_0117 LINCOM 1 Q0117 -1 0.00356521310459357
+_cal_q0_sub_q_0118 LINCOM 1 Q0118 -1 -0.00778609843109734
+_cal_q0_sub_q_0119 LINCOM 1 Q0119 -1 -0.000972721667494625
+_cal_q0_sub_q_0120 LINCOM 1 Q0120 -1 0.00372787661035545
+_cal_q0_sub_q_0121 LINCOM 1 Q0121 -1 -0.0119886476895772
+_cal_q0_sub_q_0122 LINCOM 1 Q0122 -1 0.00694320889306255
+_cal_q0_sub_q_0123 LINCOM 1 Q0123 -1 -0.00426763849100098
+_cal_q0_sub_q_0124 LINCOM 1 Q0124 -1 -0.000663100614474388
+_cal_q0_sub_q_0125 LINCOM 1 Q0125 -1 -0.00983349326997995
+_cal_q0_sub_q_0126 LINCOM 1 Q0126 -1 -0.00700066855642945
+_cal_q0_sub_q_0127 LINCOM 1 Q0127 -1 -0.0198948625475168
+_cal_q0_sub_q_0128 LINCOM 1 Q0128 -1 0.00128774818585953
+_cal_q0_sub_q_0129 LINCOM 1 Q0129 -1 -0.00787527952343225
+_cal_q0_sub_q_0130 LINCOM 1 Q0130 -1 -0.0047734176623635
+_cal_q0_sub_q_0131 LINCOM 1 Q0131 -1 -0.00544947508024052
+_cal_q0_sub_q_0132 LINCOM 1 Q0132 -1 0.00513179233530536
+_cal_q_sub_q0_0000 LINCOM 1 Q0000 1 0.00561594218015671
+_cal_q_sub_q0_0001 LINCOM 1 Q0001 1 -0.00986058410489932
+_cal_q_sub_q0_0002 LINCOM 1 Q0002 1 0.00964457355439663
+_cal_q_sub_q0_0003 LINCOM 1 Q0003 1 -5.55784542939364e-05
+_cal_q_sub_q0_0004 LINCOM 1 Q0004 1 -0.00205484936304856
+_cal_q_sub_q0_0005 LINCOM 1 Q0005 1 -0.00618513053632341
+_cal_q_sub_q0_0006 LINCOM 1 Q0006 1 -0.00226449697220232
+_cal_q_sub_q0_0007 LINCOM 1 Q0007 1 0.00287198931619059
+_cal_q_sub_q0_0008 LINCOM 1 Q0008 1 0.00322244016570039
+_cal_q_sub_q0_0009 LINCOM 1 Q0009 1 0.0128659745678306
+_cal_q_sub_q0_0010 LINCOM 1 Q0010 1 -0.0148364483029582
+_cal_q_sub_q0_0011 LINCOM 1 Q0011 1 0.00441516979481094
+_cal_q_sub_q0_0012 LINCOM 1 Q0012 1 -0.000705338596162619
+_cal_q_sub_q0_0013 LINCOM 1 Q0013 1 0.000123484082450886
+_cal_q_sub_q0_0014 LINCOM 1 Q0014 1 0.00917940423823893
+_cal_q_sub_q0_0015 LINCOM 1 Q0015 1 0.0121638916898519
+_cal_q_sub_q0_0016 LINCOM 1 Q0016 1 -0.00188566270662704
+_cal_q_sub_q0_0017 LINCOM 1 Q0017 1 -0.0106607814668678
+_cal_q_sub_q0_0018 LINCOM 1 Q0018 1 -0.00279034460254479
+_cal_q_sub_q0_0019 LINCOM 1 Q0019 1 -0.00275266270909924
+_cal_q_sub_q0_0020 LINCOM 1 Q0020 1 0.00224575471656863
+_cal_q_sub_q0_0021 LINCOM 1 Q0021 1 -0.00626852235291153
+_cal_q_sub_q0_0022 LINCOM 1 Q0022 1 0.000617677451373311
+_cal_q_sub_q0_0023 LINCOM 1 Q0023 1 0.000973980841081357
+_cal_q_sub_q0_0024 LINCOM 1 Q0024 1 -0.0123105066013522
+_cal_q_sub_q0_0025 LINCOM 1 Q0025 1 0.000263933394307969
+_cal_q_sub_q0_0026 LINCOM 1 Q0026 1 -0.00466605694964528
+_cal_q_sub_q0_0027 LINCOM 1 Q0027 1 -0.00673207486397587
+_cal_q_sub_q0_0028 LINCOM 1 Q0028 1 -0.00190769440087024
+_cal_q_sub_q0_0029 LINCOM 1 Q0029 1 0.00378088833531365
+_cal_q_sub_q0_0030 LINCOM 1 Q0030 1 0.00504725295468234
+_cal_q_sub_q0_0031 LINCOM 1 Q0031 1 -0.000284035366348689
+_cal_q_sub_q0_0032 LINCOM 1 Q0032 1 0.00464885312248953
+_cal_q_sub_q0_0033 LINCOM 1 Q0033 1 0.00561023131012917
+_cal_q_sub_q0_0034 LINCOM 1 Q0034 1 0.00136652812216198
+_cal_q_sub_q0_0035 LINCOM 1 Q0035 1 0.00312437039974611
+_cal_q_sub_q0_0036 LINCOM 1 Q0036 1 -0.00241100741550326
+_cal_q_sub_q0_0037 LINCOM 1 Q0037 1 -0.00415373593568802
+_cal_q_sub_q0_0038 LINCOM 1 Q0038 1 -0.00645910756429657
+_cal_q_sub_q0_0039 LINCOM 1 Q0039 1 0.00757695740321651
+_cal_q_sub_q0_0040 LINCOM 1 Q0040 1 0.00515563087537885
+_cal_q_sub_q0_0041 LINCOM 1 Q0041 1 0.0129781522555277
+_cal_q_sub_q0_0042 LINCOM 1 Q0042 1 0.00349759429809637
+_cal_q_sub_q0_0043 LINCOM 1 Q0043 1 0.00244323536753654
+_cal_q_sub_q0_0044 LINCOM 1 Q0044 1 -0.00488800558377989
+_cal_q_sub_q0_0045 LINCOM 1 Q0045 1 -0.00859478954225779
+_cal_q_sub_q0_0046 LINCOM 1 Q0046 1 0.000292592489131493
+_cal_q_sub_q0_0047 LINCOM 1 Q0047 1 -0.00916668586432934
+_cal_q_sub_q0_0048 LINCOM 1 Q0048 1 0.000146976121868647
+_cal_q_sub_q0_0049 LINCOM 1 Q0049 1 -0.00138911117392126
+_cal_q_sub_q0_0050 LINCOM 1 Q0050 1 0.00505269586574286
+_cal_q_sub_q0_0051 LINCOM 1 Q0051 1 -0.00273603278037626
+_cal_q_sub_q0_0052 LINCOM 1 Q0052 1 0.00548277600319125
+_cal_q_sub_q0_0053 LINCOM 1 Q0053 1 -0.0074435006827116
+_cal_q_sub_q0_0054 LINCOM 1 Q0054 1 -0.00524823926389217
+_cal_q_sub_q0_0055 LINCOM 1 Q0055 1 0.00748118991032243
+_cal_q_sub_q0_0056 LINCOM 1 Q0056 1 0.00264946316019632
+_cal_q_sub_q0_0057 LINCOM 1 Q0057 1 -0.0080408938229084
+_cal_q_sub_q0_0058 LINCOM 1 Q0058 1 -0.00151450634439243
+_cal_q_sub_q0_0059 LINCOM 1 Q0059 1 0.0062795867852401
+_cal_q_sub_q0_0060 LINCOM 1 Q0060 1 0.00670752857695334
+_cal_q_sub_q0_0061 LINCOM 1 Q0061 1 0.00466489838436246
+_cal_q_sub_q0_0062 LINCOM 1 Q0062 1 -0.000326794901411631
+_cal_q_sub_q0_0063 LINCOM 1 Q0063 1 0.0155727555975318
+_cal_q_sub_q0_0064 LINCOM 1 Q0064 1 -0.00170395142049529
+_cal_q_sub_q0_0065 LINCOM 1 Q0065 1 -0.00975754484534264
+_cal_q_sub_q0_0066 LINCOM 1 Q0066 1 0.00439538061618805
+_cal_q_sub_q0_0067 LINCOM 1 Q0067 1 0.0105336838169023
+_cal_q_sub_q0_0068 LINCOM 1 Q0068 1 0.000869250157848001
+_cal_q_sub_q0_0069 LINCOM 1 Q0069 1 0.00100768776610494
+_cal_q_sub_q0_0070 LINCOM 1 Q0070 1 -0.0100191123783588
+_cal_q_sub_q0_0071 LINCOM 1 Q0071 1 0.00546642913832329
+_cal_q_sub_q0_0072 LINCOM 1 Q0072 1 0.0023217182897497
+_cal_q_sub_q0_0073 LINCOM 1 Q0073 1 0.0105642797425389
+_cal_q_sub_q0_0074 LINCOM 1 Q0074 1 0.00469187734415755
+_cal_q_sub_q0_0075 LINCOM 1 Q0075 1 -0.00138797121326206
+_cal_q_sub_q0_0076 LINCOM 1 Q0076 1 -0.00531630497425795
+_cal_q_sub_q0_0077 LINCOM 1 Q0077 1 0.00458865167456679
+_cal_q_sub_q0_0078 LINCOM 1 Q0078 1 0.00323964010749478
+_cal_q_sub_q0_0079 LINCOM 1 Q0079 1 -0.00782560557126999
+_cal_q_sub_q0_0080 LINCOM 1 Q0080 1 -0.00260771319153719
+_cal_q_sub_q0_0081 LINCOM 1 Q0081 1 0.00133898290368961
+_cal_q_sub_q0_0082 LINCOM 1 Q0082 1 -0.00515908421948552
+_cal_q_sub_q0_0083 LINCOM 1 Q0083 1 0.00789639819413424
+_cal_q_sub_q0_0084 LINCOM 1 Q0084 1 0.00223169899254572
+_cal_q_sub_q0_0085 LINCOM 1 Q0085 1 0.00552788985078223
+_cal_q_sub_q0_0086 LINCOM 1 Q0086 1 -0.00445193890482187
+_cal_q_sub_q0_0087 LINCOM 1 Q0087 1 -0.0113667268306017
+_cal_q_sub_q0_0088 LINCOM 1 Q0088 1 -0.0123776448890567
+_cal_q_sub_q0_0089 LINCOM 1 Q0089 1 0.00778604624792933
+_cal_q_sub_q0_0090 LINCOM 1 Q0090 1 -0.00133665828616358
+_cal_q_sub_q0_0091 LINCOM 1 Q0091 1 0.00881449523149058
+_cal_q_sub_q0_0092 LINCOM 1 Q0092 1 -0.00982970837503672
+_cal_q_sub_q0_0093 LINCOM 1 Q0093 1 -0.00528949737781659
+_cal_q_sub_q0_0094 LINCOM 1 Q0094 1 -0.00528949737781659
+_cal_q_sub_q0_0095 LINCOM 1 Q0095 1 -0.000641273807559628
+_cal_q_sub_q0_0096 LINCOM 1 Q0096 1 -0.0117100477218628
+_cal_q_sub_q0_0097 LINCOM 1 Q0097 1 -0.00979938427917659
+_cal_q_sub_q0_0098 LINCOM 1 Q0098 1 0.00437750635319389
+_cal_q_sub_q0_0099 LINCOM 1 Q0099 1 -0.0108655598014593
+_cal_q_sub_q0_0100 LINCOM 1 Q0100 1 -0.00539767043665051
+_cal_q_sub_q0_0101 LINCOM 1 Q0101 1 0.0104755199863575
+_cal_q_sub_q0_0102 LINCOM 1 Q0102 1 0.000962324229476508
+_cal_q_sub_q0_0103 LINCOM 1 Q0103 1 0.00812854710966349
+_cal_q_sub_q0_0104 LINCOM 1 Q0104 1 0.00288767303572968
+_cal_q_sub_q0_0105 LINCOM 1 Q0105 1 -0.0088551128283143
+_cal_q_sub_q0_0106 LINCOM 1 Q0106 1 -0.00734154539532028
+_cal_q_sub_q0_0107 LINCOM 1 Q0107 1 0.0082952193915844
+_cal_q_sub_q0_0108 LINCOM 1 Q0108 1 0.0118662921595387
+_cal_q_sub_q0_0109 LINCOM 1 Q0109 1 -0.014338574372232
+_cal_q_sub_q0_0110 LINCOM 1 Q0110 1 0.0007974701547937
+_cal_q_sub_q0_0111 LINCOM 1 Q0111 1 -0.000217556546886044
+_cal_q_sub_q0_0112 LINCOM 1 Q0112 1 0.00737536035012454
+_cal_q_sub_q0_0113 LINCOM 1 Q0113 1 0.00737536035012454
+_cal_q_sub_q0_0114 LINCOM 1 Q0114 1 0.0180275589227676
+_cal_q_sub_q0_0115 LINCOM 1 Q0115 1 -0.0124144287547097
+_cal_q_sub_q0_0116 LINCOM 1 Q0116 1 0.00871655251830816
+_cal_q_sub_q0_0117 LINCOM 1 Q0117 1 -0.00356521310459357
+_cal_q_sub_q0_0118 LINCOM 1 Q0118 1 0.00778609843109734
+_cal_q_sub_q0_0119 LINCOM 1 Q0119 1 0.000972721667494625
+_cal_q_sub_q0_0120 LINCOM 1 Q0120 1 -0.00372787661035545
+_cal_q_sub_q0_0121 LINCOM 1 Q0121 1 0.0119886476895772
+_cal_q_sub_q0_0122 LINCOM 1 Q0122 1 -0.00694320889306255
+_cal_q_sub_q0_0123 LINCOM 1 Q0123 1 0.00426763849100098
+_cal_q_sub_q0_0124 LINCOM 1 Q0124 1 0.000663100614474388
+_cal_q_sub_q0_0125 LINCOM 1 Q0125 1 0.00983349326997995
+_cal_q_sub_q0_0126 LINCOM 1 Q0126 1 0.00700066855642945
+_cal_q_sub_q0_0127 LINCOM 1 Q0127 1 0.0198948625475168
+_cal_q_sub_q0_0128 LINCOM 1 Q0128 1 -0.00128774818585953
+_cal_q_sub_q0_0129 LINCOM 1 Q0129 1 0.00787527952343225
+_cal_q_sub_q0_0130 LINCOM 1 Q0130 1 0.0047734176623635
+_cal_q_sub_q0_0131 LINCOM 1 Q0131 1 0.00544947508024052
+_cal_q_sub_q0_0132 LINCOM 1 Q0132 1 -0.00513179233530536
+phase_rotated_0000 LINCOM 1 _cal_rotated_0000.a 1 0
+phase_rotated_0001 LINCOM 1 _cal_rotated_0001.a 1 0
+phase_rotated_0002 LINCOM 1 _cal_rotated_0002.a 1 0
+phase_rotated_0003 LINCOM 1 _cal_rotated_0003.a 1 0
+phase_rotated_0004 LINCOM 1 _cal_rotated_0004.a 1 0
+phase_rotated_0005 LINCOM 1 _cal_rotated_0005.a 1 0
+phase_rotated_0006 LINCOM 1 _cal_rotated_0006.a 1 0
+phase_rotated_0007 LINCOM 1 _cal_rotated_0007.a 1 0
+phase_rotated_0008 LINCOM 1 _cal_rotated_0008.a 1 0
+phase_rotated_0009 LINCOM 1 _cal_rotated_0009.a 1 0
+phase_rotated_0010 LINCOM 1 _cal_rotated_0010.a 1 0
+phase_rotated_0011 LINCOM 1 _cal_rotated_0011.a 1 0
+phase_rotated_0012 LINCOM 1 _cal_rotated_0012.a 1 0
+phase_rotated_0013 LINCOM 1 _cal_rotated_0013.a 1 0
+phase_rotated_0014 LINCOM 1 _cal_rotated_0014.a 1 0
+phase_rotated_0015 LINCOM 1 _cal_rotated_0015.a 1 0
+phase_rotated_0016 LINCOM 1 _cal_rotated_0016.a 1 0
+phase_rotated_0017 LINCOM 1 _cal_rotated_0017.a 1 0
+phase_rotated_0018 LINCOM 1 _cal_rotated_0018.a 1 0
+phase_rotated_0019 LINCOM 1 _cal_rotated_0019.a 1 0
+phase_rotated_0020 LINCOM 1 _cal_rotated_0020.a 1 0
+phase_rotated_0021 LINCOM 1 _cal_rotated_0021.a 1 0
+phase_rotated_0022 LINCOM 1 _cal_rotated_0022.a 1 0
+phase_rotated_0023 LINCOM 1 _cal_rotated_0023.a 1 0
+phase_rotated_0024 LINCOM 1 _cal_rotated_0024.a 1 0
+phase_rotated_0025 LINCOM 1 _cal_rotated_0025.a 1 0
+phase_rotated_0026 LINCOM 1 _cal_rotated_0026.a 1 0
+phase_rotated_0027 LINCOM 1 _cal_rotated_0027.a 1 0
+phase_rotated_0028 LINCOM 1 _cal_rotated_0028.a 1 0
+phase_rotated_0029 LINCOM 1 _cal_rotated_0029.a 1 0
+phase_rotated_0030 LINCOM 1 _cal_rotated_0030.a 1 0
+phase_rotated_0031 LINCOM 1 _cal_rotated_0031.a 1 0
+phase_rotated_0032 LINCOM 1 _cal_rotated_0032.a 1 0
+phase_rotated_0033 LINCOM 1 _cal_rotated_0033.a 1 0
+phase_rotated_0034 LINCOM 1 _cal_rotated_0034.a 1 0
+phase_rotated_0035 LINCOM 1 _cal_rotated_0035.a 1 0
+phase_rotated_0036 LINCOM 1 _cal_rotated_0036.a 1 0
+phase_rotated_0037 LINCOM 1 _cal_rotated_0037.a 1 0
+phase_rotated_0038 LINCOM 1 _cal_rotated_0038.a 1 0
+phase_rotated_0039 LINCOM 1 _cal_rotated_0039.a 1 0
+phase_rotated_0040 LINCOM 1 _cal_rotated_0040.a 1 0
+phase_rotated_0041 LINCOM 1 _cal_rotated_0041.a 1 0
+phase_rotated_0042 LINCOM 1 _cal_rotated_0042.a 1 0
+phase_rotated_0043 LINCOM 1 _cal_rotated_0043.a 1 0
+phase_rotated_0044 LINCOM 1 _cal_rotated_0044.a 1 0
+phase_rotated_0045 LINCOM 1 _cal_rotated_0045.a 1 0
+phase_rotated_0046 LINCOM 1 _cal_rotated_0046.a 1 0
+phase_rotated_0047 LINCOM 1 _cal_rotated_0047.a 1 0
+phase_rotated_0048 LINCOM 1 _cal_rotated_0048.a 1 0
+phase_rotated_0049 LINCOM 1 _cal_rotated_0049.a 1 0
+phase_rotated_0050 LINCOM 1 _cal_rotated_0050.a 1 0
+phase_rotated_0051 LINCOM 1 _cal_rotated_0051.a 1 0
+phase_rotated_0052 LINCOM 1 _cal_rotated_0052.a 1 0
+phase_rotated_0053 LINCOM 1 _cal_rotated_0053.a 1 0
+phase_rotated_0054 LINCOM 1 _cal_rotated_0054.a 1 0
+phase_rotated_0055 LINCOM 1 _cal_rotated_0055.a 1 0
+phase_rotated_0056 LINCOM 1 _cal_rotated_0056.a 1 0
+phase_rotated_0057 LINCOM 1 _cal_rotated_0057.a 1 0
+phase_rotated_0058 LINCOM 1 _cal_rotated_0058.a 1 0
+phase_rotated_0059 LINCOM 1 _cal_rotated_0059.a 1 0
+phase_rotated_0060 LINCOM 1 _cal_rotated_0060.a 1 0
+phase_rotated_0061 LINCOM 1 _cal_rotated_0061.a 1 0
+phase_rotated_0062 LINCOM 1 _cal_rotated_0062.a 1 0
+phase_rotated_0063 LINCOM 1 _cal_rotated_0063.a 1 0
+phase_rotated_0064 LINCOM 1 _cal_rotated_0064.a 1 0
+phase_rotated_0065 LINCOM 1 _cal_rotated_0065.a 1 0
+phase_rotated_0066 LINCOM 1 _cal_rotated_0066.a 1 0
+phase_rotated_0067 LINCOM 1 _cal_rotated_0067.a 1 0
+phase_rotated_0068 LINCOM 1 _cal_rotated_0068.a 1 0
+phase_rotated_0069 LINCOM 1 _cal_rotated_0069.a 1 0
+phase_rotated_0070 LINCOM 1 _cal_rotated_0070.a 1 0
+phase_rotated_0071 LINCOM 1 _cal_rotated_0071.a 1 0
+phase_rotated_0072 LINCOM 1 _cal_rotated_0072.a 1 0
+phase_rotated_0073 LINCOM 1 _cal_rotated_0073.a 1 0
+phase_rotated_0074 LINCOM 1 _cal_rotated_0074.a 1 0
+phase_rotated_0075 LINCOM 1 _cal_rotated_0075.a 1 0
+phase_rotated_0076 LINCOM 1 _cal_rotated_0076.a 1 0
+phase_rotated_0077 LINCOM 1 _cal_rotated_0077.a 1 0
+phase_rotated_0078 LINCOM 1 _cal_rotated_0078.a 1 0
+phase_rotated_0079 LINCOM 1 _cal_rotated_0079.a 1 0
+phase_rotated_0080 LINCOM 1 _cal_rotated_0080.a 1 0
+phase_rotated_0081 LINCOM 1 _cal_rotated_0081.a 1 0
+phase_rotated_0082 LINCOM 1 _cal_rotated_0082.a 1 0
+phase_rotated_0083 LINCOM 1 _cal_rotated_0083.a 1 0
+phase_rotated_0084 LINCOM 1 _cal_rotated_0084.a 1 0
+phase_rotated_0085 LINCOM 1 _cal_rotated_0085.a 1 0
+phase_rotated_0086 LINCOM 1 _cal_rotated_0086.a 1 0
+phase_rotated_0087 LINCOM 1 _cal_rotated_0087.a 1 0
+phase_rotated_0088 LINCOM 1 _cal_rotated_0088.a 1 0
+phase_rotated_0089 LINCOM 1 _cal_rotated_0089.a 1 0
+phase_rotated_0090 LINCOM 1 _cal_rotated_0090.a 1 0
+phase_rotated_0091 LINCOM 1 _cal_rotated_0091.a 1 0
+phase_rotated_0092 LINCOM 1 _cal_rotated_0092.a 1 0
+phase_rotated_0093 LINCOM 1 _cal_rotated_0093.a 1 0
+phase_rotated_0094 LINCOM 1 _cal_rotated_0094.a 1 0
+phase_rotated_0095 LINCOM 1 _cal_rotated_0095.a 1 0
+phase_rotated_0096 LINCOM 1 _cal_rotated_0096.a 1 0
+phase_rotated_0097 LINCOM 1 _cal_rotated_0097.a 1 0
+phase_rotated_0098 LINCOM 1 _cal_rotated_0098.a 1 0
+phase_rotated_0099 LINCOM 1 _cal_rotated_0099.a 1 0
+phase_rotated_0100 LINCOM 1 _cal_rotated_0100.a 1 0
+phase_rotated_0101 LINCOM 1 _cal_rotated_0101.a 1 0
+phase_rotated_0102 LINCOM 1 _cal_rotated_0102.a 1 0
+phase_rotated_0103 LINCOM 1 _cal_rotated_0103.a 1 0
+phase_rotated_0104 LINCOM 1 _cal_rotated_0104.a 1 0
+phase_rotated_0105 LINCOM 1 _cal_rotated_0105.a 1 0
+phase_rotated_0106 LINCOM 1 _cal_rotated_0106.a 1 0
+phase_rotated_0107 LINCOM 1 _cal_rotated_0107.a 1 0
+phase_rotated_0108 LINCOM 1 _cal_rotated_0108.a 1 0
+phase_rotated_0109 LINCOM 1 _cal_rotated_0109.a 1 0
+phase_rotated_0110 LINCOM 1 _cal_rotated_0110.a 1 0
+phase_rotated_0111 LINCOM 1 _cal_rotated_0111.a 1 0
+phase_rotated_0112 LINCOM 1 _cal_rotated_0112.a 1 0
+phase_rotated_0113 LINCOM 1 _cal_rotated_0113.a 1 0
+phase_rotated_0114 LINCOM 1 _cal_rotated_0114.a 1 0
+phase_rotated_0115 LINCOM 1 _cal_rotated_0115.a 1 0
+phase_rotated_0116 LINCOM 1 _cal_rotated_0116.a 1 0
+phase_rotated_0117 LINCOM 1 _cal_rotated_0117.a 1 0
+phase_rotated_0118 LINCOM 1 _cal_rotated_0118.a 1 0
+phase_rotated_0119 LINCOM 1 _cal_rotated_0119.a 1 0
+phase_rotated_0120 LINCOM 1 _cal_rotated_0120.a 1 0
+phase_rotated_0121 LINCOM 1 _cal_rotated_0121.a 1 0
+phase_rotated_0122 LINCOM 1 _cal_rotated_0122.a 1 0
+phase_rotated_0123 LINCOM 1 _cal_rotated_0123.a 1 0
+phase_rotated_0124 LINCOM 1 _cal_rotated_0124.a 1 0
+phase_rotated_0125 LINCOM 1 _cal_rotated_0125.a 1 0
+phase_rotated_0126 LINCOM 1 _cal_rotated_0126.a 1 0
+phase_rotated_0127 LINCOM 1 _cal_rotated_0127.a 1 0
+phase_rotated_0128 LINCOM 1 _cal_rotated_0128.a 1 0
+phase_rotated_0129 LINCOM 1 _cal_rotated_0129.a 1 0
+phase_rotated_0130 LINCOM 1 _cal_rotated_0130.a 1 0
+phase_rotated_0131 LINCOM 1 _cal_rotated_0131.a 1 0
+phase_rotated_0132 LINCOM 1 _cal_rotated_0132.a 1 0
+_cal_didf_mult_0000 CONST FLOAT32 -3151210.44020472
+_cal_didf_mult_0001 CONST FLOAT32 -1654471.33220232
+_cal_didf_mult_0002 CONST FLOAT32 914046.688211481
+_cal_didf_mult_0003 CONST FLOAT32 3162003.94516714
+_cal_didf_mult_0004 CONST FLOAT32 -8204110.62252153
+_cal_didf_mult_0005 CONST FLOAT32 863910.083345659
+_cal_didf_mult_0006 CONST FLOAT32 2190101.92722204
+_cal_didf_mult_0007 CONST FLOAT32 -3718526.26943368
+_cal_didf_mult_0008 CONST FLOAT32 8163861.22063097
+_cal_didf_mult_0009 CONST FLOAT32 -3360240.20371465
+_cal_didf_mult_0010 CONST FLOAT32 -1096443.63237054
+_cal_didf_mult_0011 CONST FLOAT32 5498074.73392516
+_cal_didf_mult_0012 CONST FLOAT32 2444485.85637681
+_cal_didf_mult_0013 CONST FLOAT32 566374.116734992
+_cal_didf_mult_0014 CONST FLOAT32 -1500505.96488989
+_cal_didf_mult_0015 CONST FLOAT32 -1553530.21949739
+_cal_didf_mult_0016 CONST FLOAT32 15167513.6689973
+_cal_didf_mult_0017 CONST FLOAT32 3546926.22099935
+_cal_didf_mult_0018 CONST FLOAT32 4736310.09171803
+_cal_didf_mult_0019 CONST FLOAT32 -14423683.3634997
+_cal_didf_mult_0020 CONST FLOAT32 -519449.51336194
+_cal_didf_mult_0021 CONST FLOAT32 10803984.6322639
+_cal_didf_mult_0022 CONST FLOAT32 -8955758.84249102
+_cal_didf_mult_0023 CONST FLOAT32 678468.974609276
+_cal_didf_mult_0024 CONST FLOAT32 -1451375.75352098
+_cal_didf_mult_0025 CONST FLOAT32 -13885548.8279425
+_cal_didf_mult_0026 CONST FLOAT32 -8198369.71662955
+_cal_didf_mult_0027 CONST FLOAT32 -1703121.25078069
+_cal_didf_mult_0028 CONST FLOAT32 13887419.0501376
+_cal_didf_mult_0029 CONST FLOAT32 11404386.8411938
+_cal_didf_mult_0030 CONST FLOAT32 7904768.97305573
+_cal_didf_mult_0031 CONST FLOAT32 99118.1344602613
+_cal_didf_mult_0032 CONST FLOAT32 6690929.39023432
+_cal_didf_mult_0033 CONST FLOAT32 5187101.1900183
+_cal_didf_mult_0034 CONST FLOAT32 -7097322.41944014
+_cal_didf_mult_0035 CONST FLOAT32 8293997.92249055
+_cal_didf_mult_0036 CONST FLOAT32 -3626834.87255413
+_cal_didf_mult_0037 CONST FLOAT32 -5255228.25128284
+_cal_didf_mult_0038 CONST FLOAT32 6601507.67678302
+_cal_didf_mult_0039 CONST FLOAT32 -882852.323214259
+_cal_didf_mult_0040 CONST FLOAT32 2703458.92244803
+_cal_didf_mult_0041 CONST FLOAT32 -18207848.4247951
+_cal_didf_mult_0042 CONST FLOAT32 46872080.2374525
+_cal_didf_mult_0043 CONST FLOAT32 -32390136.9848459
+_cal_didf_mult_0044 CONST FLOAT32 6395544.69002772
+_cal_didf_mult_0045 CONST FLOAT32 10435020.6525659
+_cal_didf_mult_0046 CONST FLOAT32 7771364.77355159
+_cal_didf_mult_0047 CONST FLOAT32 98958181.5539931
+_cal_didf_mult_0048 CONST FLOAT32 -3214521.8036263
+_cal_didf_mult_0049 CONST FLOAT32 88901367.0296101
+_cal_didf_mult_0050 CONST FLOAT32 -9532234.82171712
+_cal_didf_mult_0051 CONST FLOAT32 -20181765.0991378
+_cal_didf_mult_0052 CONST FLOAT32 12236245.0366284
+_cal_didf_mult_0053 CONST FLOAT32 22731561.9436773
+_cal_didf_mult_0054 CONST FLOAT32 -12711216.7519544
+_cal_didf_mult_0055 CONST FLOAT32 -20225220.9982537
+_cal_didf_mult_0056 CONST FLOAT32 17978217.1845681
+_cal_didf_mult_0057 CONST FLOAT32 12323109.1882819
+_cal_didf_mult_0058 CONST FLOAT32 1846514.28485794
+_cal_didf_mult_0059 CONST FLOAT32 20956979.4864907
+_cal_didf_mult_0060 CONST FLOAT32 -43383893.3444095
+_cal_didf_mult_0061 CONST FLOAT32 -13247600.658163
+_cal_didf_mult_0062 CONST FLOAT32 9352248.15351661
+_cal_didf_mult_0063 CONST FLOAT32 -4093746.64023783
+_cal_didf_mult_0064 CONST FLOAT32 8810274.65856154
+_cal_didf_mult_0065 CONST FLOAT32 1364686.53848259
+_cal_didf_mult_0066 CONST FLOAT32 -3556214.34373222
+_cal_didf_mult_0067 CONST FLOAT32 -3914247.18335882
+_cal_didf_mult_0068 CONST FLOAT32 -2267173.84676545
+_cal_didf_mult_0069 CONST FLOAT32 -1889736.82871112
+_cal_didf_mult_0070 CONST FLOAT32 2687646.49254557
+_cal_didf_mult_0071 CONST FLOAT32 861591.932567543
+_cal_didf_mult_0072 CONST FLOAT32 1526235.50829371
+_cal_didf_mult_0073 CONST FLOAT32 -1540588.80665429
+_cal_didf_mult_0074 CONST FLOAT32 1460250.82079794
+_cal_didf_mult_0075 CONST FLOAT32 -2208766.14512265
+_cal_didf_mult_0076 CONST FLOAT32 1375988.46787843
+_cal_didf_mult_0077 CONST FLOAT32 281853.23795141
+_cal_didf_mult_0078 CONST FLOAT32 -376343.276032884
+_cal_didf_mult_0079 CONST FLOAT32 462293.921981513
+_cal_didf_mult_0080 CONST FLOAT32 -3217266.96333175
+_cal_didf_mult_0081 CONST FLOAT32 -1298103.56317794
+_cal_didf_mult_0082 CONST FLOAT32 -1741388.85196468
+_cal_didf_mult_0083 CONST FLOAT32 2047148.69631311
+_cal_didf_mult_0084 CONST FLOAT32 795503.962958858
+_cal_didf_mult_0085 CONST FLOAT32 396550.52776326
+_cal_didf_mult_0086 CONST FLOAT32 -2436962.15325682
+_cal_didf_mult_0087 CONST FLOAT32 -1394310.34498867
+_cal_didf_mult_0088 CONST FLOAT32 3077255.93276803
+_cal_didf_mult_0089 CONST FLOAT32 -149366.458643183
+_cal_didf_mult_0090 CONST FLOAT32 -2281725.01935053
+_cal_didf_mult_0091 CONST FLOAT32 1267767.23294368
+_cal_didf_mult_0092 CONST FLOAT32 989415.070871076
+_cal_didf_mult_0093 CONST FLOAT32 1148121.93129611
+_cal_didf_mult_0094 CONST FLOAT32 1148121.93129611
+_cal_didf_mult_0095 CONST FLOAT32 804199.383240327
+_cal_didf_mult_0096 CONST FLOAT32 -1590552.30804012
+_cal_didf_mult_0097 CONST FLOAT32 -1897140.46374003
+_cal_didf_mult_0098 CONST FLOAT32 3142896.6196795
+_cal_didf_mult_0099 CONST FLOAT32 -88645.3340723204
+_cal_didf_mult_0100 CONST FLOAT32 -2980017.76012323
+_cal_didf_mult_0101 CONST FLOAT32 1550637.24621949
+_cal_didf_mult_0102 CONST FLOAT32 8019742.26717681
+_cal_didf_mult_0103 CONST FLOAT32 1651664.30583056
+_cal_didf_mult_0104 CONST FLOAT32 5429759.01077537
+_cal_didf_mult_0105 CONST FLOAT32 -955509.428471628
+_cal_didf_mult_0106 CONST FLOAT32 -3393542.91298394
+_cal_didf_mult_0107 CONST FLOAT32 1484422.54238825
+_cal_didf_mult_0108 CONST FLOAT32 -1368970.44506055
+_cal_didf_mult_0109 CONST FLOAT32 -606872.268694808
+_cal_didf_mult_0110 CONST FLOAT32 4548958.43275545
+_cal_didf_mult_0111 CONST FLOAT32 211430578.549268
+_cal_didf_mult_0112 CONST FLOAT32 -262811.79546
+_cal_didf_mult_0113 CONST FLOAT32 -262811.79546
+_cal_didf_mult_0114 CONST FLOAT32 -1279171.73745548
+_cal_didf_mult_0115 CONST FLOAT32 337001.487840247
+_cal_didf_mult_0116 CONST FLOAT32 518324.299645096
+_cal_didf_mult_0117 CONST FLOAT32 -5391728.68014455
+_cal_didf_mult_0118 CONST FLOAT32 1778086.77935358
+_cal_didf_mult_0119 CONST FLOAT32 4325007.69565938
+_cal_didf_mult_0120 CONST FLOAT32 4706055.95112857
+_cal_didf_mult_0121 CONST FLOAT32 -101087.970768025
+_cal_didf_mult_0122 CONST FLOAT32 -2013451.04737982
+_cal_didf_mult_0123 CONST FLOAT32 4663009.40171447
+_cal_didf_mult_0124 CONST FLOAT32 10085223.4433905
+_cal_didf_mult_0125 CONST FLOAT32 8645467.61021742
+_cal_didf_mult_0126 CONST FLOAT32 9056701.26259791
+_cal_didf_mult_0127 CONST FLOAT32 31051013.8328197
+_cal_didf_mult_0128 CONST FLOAT32 119101404.830712
+_cal_didf_mult_0129 CONST FLOAT32 5565284.35532
+_cal_didf_mult_0130 CONST FLOAT32 2668774.86563001
+_cal_didf_mult_0131 CONST FLOAT32 -6921076.20565711
+_cal_didf_mult_0132 CONST FLOAT32 -3269488.72883749
+_cal_dqdf_mult_0000 CONST FLOAT32 -9319479.33614377
+_cal_dqdf_mult_0001 CONST FLOAT32 755689.668317813
+_cal_dqdf_mult_0002 CONST FLOAT32 -3034648.17749924
+_cal_dqdf_mult_0003 CONST FLOAT32 685499.818620682
+_cal_dqdf_mult_0004 CONST FLOAT32 -4752219.4371067
+_cal_dqdf_mult_0005 CONST FLOAT32 3667097.42450228
+_cal_dqdf_mult_0006 CONST FLOAT32 954421.941836429
+_cal_dqdf_mult_0007 CONST FLOAT32 2477405.85364491
+_cal_dqdf_mult_0008 CONST FLOAT32 1150638.88252628
+_cal_dqdf_mult_0009 CONST FLOAT32 2225013.36274115
+_cal_dqdf_mult_0010 CONST FLOAT32 1426338.95846559
+_cal_dqdf_mult_0011 CONST FLOAT32 1345252.7639947
+_cal_dqdf_mult_0012 CONST FLOAT32 -4872363.2441316
+_cal_dqdf_mult_0013 CONST FLOAT32 6917550.68826898
+_cal_dqdf_mult_0014 CONST FLOAT32 6242657.83995531
+_cal_dqdf_mult_0015 CONST FLOAT32 -2772583.29432731
+_cal_dqdf_mult_0016 CONST FLOAT32 8192075.44749381
+_cal_dqdf_mult_0017 CONST FLOAT32 -845595.48823636
+_cal_dqdf_mult_0018 CONST FLOAT32 3963600.26502806
+_cal_dqdf_mult_0019 CONST FLOAT32 1073139.46467982
+_cal_dqdf_mult_0020 CONST FLOAT32 7670620.61661735
+_cal_dqdf_mult_0021 CONST FLOAT32 -2444083.81750774
+_cal_dqdf_mult_0022 CONST FLOAT32 7535947.33041928
+_cal_dqdf_mult_0023 CONST FLOAT32 -7409241.64743159
+_cal_dqdf_mult_0024 CONST FLOAT32 1405879.72357884
+_cal_dqdf_mult_0025 CONST FLOAT32 -8688951.74229131
+_cal_dqdf_mult_0026 CONST FLOAT32 8899861.05354923
+_cal_dqdf_mult_0027 CONST FLOAT32 3321382.72365131
+_cal_dqdf_mult_0028 CONST FLOAT32 10411675.7155757
+_cal_dqdf_mult_0029 CONST FLOAT32 3704505.38856828
+_cal_dqdf_mult_0030 CONST FLOAT32 7926248.11941354
+_cal_dqdf_mult_0031 CONST FLOAT32 2900928.86306094
+_cal_dqdf_mult_0032 CONST FLOAT32 7370122.68679492
+_cal_dqdf_mult_0033 CONST FLOAT32 -3594061.10384165
+_cal_dqdf_mult_0034 CONST FLOAT32 8901098.37087063
+_cal_dqdf_mult_0035 CONST FLOAT32 11169385.4627722
+_cal_dqdf_mult_0036 CONST FLOAT32 -6894216.70702218
+_cal_dqdf_mult_0037 CONST FLOAT32 700964.228280124
+_cal_dqdf_mult_0038 CONST FLOAT32 -9358215.31476651
+_cal_dqdf_mult_0039 CONST FLOAT32 6501511.23431473
+_cal_dqdf_mult_0040 CONST FLOAT32 -3800533.26471241
+_cal_dqdf_mult_0041 CONST FLOAT32 14471780.3736998
+_cal_dqdf_mult_0042 CONST FLOAT32 48852746.4988542
+_cal_dqdf_mult_0043 CONST FLOAT32 -20235366.7235532
+_cal_dqdf_mult_0044 CONST FLOAT32 -5854204.4965833
+_cal_dqdf_mult_0045 CONST FLOAT32 -2338467.61298023
+_cal_dqdf_mult_0046 CONST FLOAT32 -11924.3743978413
+_cal_dqdf_mult_0047 CONST FLOAT32 -29659297.8878474
+_cal_dqdf_mult_0048 CONST FLOAT32 22557556.4121331
+_cal_dqdf_mult_0049 CONST FLOAT32 82135232.4950203
+_cal_dqdf_mult_0050 CONST FLOAT32 -10319633.286748
+_cal_dqdf_mult_0051 CONST FLOAT32 43286048.728457
+_cal_dqdf_mult_0052 CONST FLOAT32 -24593349.9282872
+_cal_dqdf_mult_0053 CONST FLOAT32 8821922.40759988
+_cal_dqdf_mult_0054 CONST FLOAT32 18207326.5426146
+_cal_dqdf_mult_0055 CONST FLOAT32 -27170808.9579542
+_cal_dqdf_mult_0056 CONST FLOAT32 40706356.4840968
+_cal_dqdf_mult_0057 CONST FLOAT32 -7599628.59531118
+_cal_dqdf_mult_0058 CONST FLOAT32 25538958.5975546
+_cal_dqdf_mult_0059 CONST FLOAT32 -5773946.0479285
+_cal_dqdf_mult_0060 CONST FLOAT32 -29610815.8378161
+_cal_dqdf_mult_0061 CONST FLOAT32 22306980.9387842
+_cal_dqdf_mult_0062 CONST FLOAT32 14448258.9828142
+_cal_dqdf_mult_0063 CONST FLOAT32 4523296.50253429
+_cal_dqdf_mult_0064 CONST FLOAT32 -1230519.57398425
+_cal_dqdf_mult_0065 CONST FLOAT32 -2143295.26030961
+_cal_dqdf_mult_0066 CONST FLOAT32 4484686.61588989
+_cal_dqdf_mult_0067 CONST FLOAT32 4086887.19052781
+_cal_dqdf_mult_0068 CONST FLOAT32 366616.466996895
+_cal_dqdf_mult_0069 CONST FLOAT32 4771438.41717283
+_cal_dqdf_mult_0070 CONST FLOAT32 -4443941.94691313
+_cal_dqdf_mult_0071 CONST FLOAT32 -508454.786753977
+_cal_dqdf_mult_0072 CONST FLOAT32 2829739.15991459
+_cal_dqdf_mult_0073 CONST FLOAT32 -136411.451159522
+_cal_dqdf_mult_0074 CONST FLOAT32 -1785523.33453702
+_cal_dqdf_mult_0075 CONST FLOAT32 -2146292.55141653
+_cal_dqdf_mult_0076 CONST FLOAT32 3413305.86934327
+_cal_dqdf_mult_0077 CONST FLOAT32 -2803185.66847657
+_cal_dqdf_mult_0078 CONST FLOAT32 -1380897.24316124
+_cal_dqdf_mult_0079 CONST FLOAT32 2182748.04132544
+_cal_dqdf_mult_0080 CONST FLOAT32 1003357.40733078
+_cal_dqdf_mult_0081 CONST FLOAT32 -3297301.43908958
+_cal_dqdf_mult_0082 CONST FLOAT32 -433388.436566152
+_cal_dqdf_mult_0083 CONST FLOAT32 -666602.918472727
+_cal_dqdf_mult_0084 CONST FLOAT32 -3422154.77704671
+_cal_dqdf_mult_0085 CONST FLOAT32 -3297669.29208072
+_cal_dqdf_mult_0086 CONST FLOAT32 590361.831057806
+_cal_dqdf_mult_0087 CONST FLOAT32 -265926.105752168
+_cal_dqdf_mult_0088 CONST FLOAT32 -5118583.49435665
+_cal_dqdf_mult_0089 CONST FLOAT32 -2473030.36580301
+_cal_dqdf_mult_0090 CONST FLOAT32 -1893037.66926536
+_cal_dqdf_mult_0091 CONST FLOAT32 -1058161.72726706
+_cal_dqdf_mult_0092 CONST FLOAT32 1287348.13499312
+_cal_dqdf_mult_0093 CONST FLOAT32 1853435.86624419
+_cal_dqdf_mult_0094 CONST FLOAT32 1853435.86624419
+_cal_dqdf_mult_0095 CONST FLOAT32 -4870404.85190995
+_cal_dqdf_mult_0096 CONST FLOAT32 1462763.48528327
+_cal_dqdf_mult_0097 CONST FLOAT32 1958060.57632527
+_cal_dqdf_mult_0098 CONST FLOAT32 -6064373.8702613
+_cal_dqdf_mult_0099 CONST FLOAT32 1212971.28429957
+_cal_dqdf_mult_0100 CONST FLOAT32 -5171995.97841795
+_cal_dqdf_mult_0101 CONST FLOAT32 -308166.586743831
+_cal_dqdf_mult_0102 CONST FLOAT32 3610340.71891823
+_cal_dqdf_mult_0103 CONST FLOAT32 294225.551733297
+_cal_dqdf_mult_0104 CONST FLOAT32 -1605567.36827359
+_cal_dqdf_mult_0105 CONST FLOAT32 1337445.34946284
+_cal_dqdf_mult_0106 CONST FLOAT32 5159182.3388896
+_cal_dqdf_mult_0107 CONST FLOAT32 -1070531.44807339
+_cal_dqdf_mult_0108 CONST FLOAT32 -3713192.38674499
+_cal_dqdf_mult_0109 CONST FLOAT32 5750556.94550438
+_cal_dqdf_mult_0110 CONST FLOAT32 1227550.8912643
+_cal_dqdf_mult_0111 CONST FLOAT32 43953941.4314006
+_cal_dqdf_mult_0112 CONST FLOAT32 -1444625.80531263
+_cal_dqdf_mult_0113 CONST FLOAT32 -1444625.80531263
+_cal_dqdf_mult_0114 CONST FLOAT32 29531.4817494333
+_cal_dqdf_mult_0115 CONST FLOAT32 1551912.98977958
+_cal_dqdf_mult_0116 CONST FLOAT32 -1599522.28290987
+_cal_dqdf_mult_0117 CONST FLOAT32 -1231307.98295284
+_cal_dqdf_mult_0118 CONST FLOAT32 -1638057.50717954
+_cal_dqdf_mult_0119 CONST FLOAT32 813342.531023391
+_cal_dqdf_mult_0120 CONST FLOAT32 -1768677.96203009
+_cal_dqdf_mult_0121 CONST FLOAT32 -5468726.95847248
+_cal_dqdf_mult_0122 CONST FLOAT32 949514.160177539
+_cal_dqdf_mult_0123 CONST FLOAT32 987342.647188184
+_cal_dqdf_mult_0124 CONST FLOAT32 30165335.0441915
+_cal_dqdf_mult_0125 CONST FLOAT32 -522028.856882242
+_cal_dqdf_mult_0126 CONST FLOAT32 345177.684972695
+_cal_dqdf_mult_0127 CONST FLOAT32 21247063.3174128
+_cal_dqdf_mult_0128 CONST FLOAT32 -10004838.1373179
+_cal_dqdf_mult_0129 CONST FLOAT32 5740564.4045027
+_cal_dqdf_mult_0130 CONST FLOAT32 1279195.09823152
+_cal_dqdf_mult_0131 CONST FLOAT32 10683753.4673747
+_cal_dqdf_mult_0132 CONST FLOAT32 3438305.12530026
+_cal_tone_freq_0000 CONST FLOAT32 888804687.5
+_cal_tone_freq_0001 CONST FLOAT32 893562500
+_cal_tone_freq_0002 CONST FLOAT32 898179687.5
+_cal_tone_freq_0003 CONST FLOAT32 902246093.75
+_cal_tone_freq_0004 CONST FLOAT32 905125000
+_cal_tone_freq_0005 CONST FLOAT32 908597656.25
+_cal_tone_freq_0006 CONST FLOAT32 911980468.75
+_cal_tone_freq_0007 CONST FLOAT32 912453125
+_cal_tone_freq_0008 CONST FLOAT32 918343750
+_cal_tone_freq_0009 CONST FLOAT32 921335937.5
+_cal_tone_freq_0010 CONST FLOAT32 927320312.5
+_cal_tone_freq_0011 CONST FLOAT32 928085937.5
+_cal_tone_freq_0012 CONST FLOAT32 934371093.75
+_cal_tone_freq_0013 CONST FLOAT32 937082031.25
+_cal_tone_freq_0014 CONST FLOAT32 939480468.75
+_cal_tone_freq_0015 CONST FLOAT32 944191406.25
+_cal_tone_freq_0016 CONST FLOAT32 949078125
+_cal_tone_freq_0017 CONST FLOAT32 951808593.75
+_cal_tone_freq_0018 CONST FLOAT32 956101562.5
+_cal_tone_freq_0019 CONST FLOAT32 959644531.25
+_cal_tone_freq_0020 CONST FLOAT32 964285156.25
+_cal_tone_freq_0021 CONST FLOAT32 971617187.5
+_cal_tone_freq_0022 CONST FLOAT32 972371093.75
+_cal_tone_freq_0023 CONST FLOAT32 974828125
+_cal_tone_freq_0024 CONST FLOAT32 975433593.75
+_cal_tone_freq_0025 CONST FLOAT32 979562500
+_cal_tone_freq_0026 CONST FLOAT32 985617187.5
+_cal_tone_freq_0027 CONST FLOAT32 987589843.75
+_cal_tone_freq_0028 CONST FLOAT32 994566406.25
+_cal_tone_freq_0029 CONST FLOAT32 994945312.5
+_cal_tone_freq_0030 CONST FLOAT32 1000210937.5
+_cal_tone_freq_0031 CONST FLOAT32 1001000000
+_cal_tone_freq_0032 CONST FLOAT32 1003339843.75
+_cal_tone_freq_0033 CONST FLOAT32 1009484375
+_cal_tone_freq_0034 CONST FLOAT32 1012375000
+_cal_tone_freq_0035 CONST FLOAT32 1017406250
+_cal_tone_freq_0036 CONST FLOAT32 1018996093.75
+_cal_tone_freq_0037 CONST FLOAT32 1024449218.75
+_cal_tone_freq_0038 CONST FLOAT32 1027050781.25
+_cal_tone_freq_0039 CONST FLOAT32 1027996093.75
+_cal_tone_freq_0040 CONST FLOAT32 1031917968.75
+_cal_tone_freq_0041 CONST FLOAT32 1034800781.25
+_cal_tone_freq_0042 CONST FLOAT32 1038031250
+_cal_tone_freq_0043 CONST FLOAT32 1044449218.75
+_cal_tone_freq_0044 CONST FLOAT32 1045871093.75
+_cal_tone_freq_0045 CONST FLOAT32 1047992187.5
+_cal_tone_freq_0046 CONST FLOAT32 1048644531.25
+_cal_tone_freq_0047 CONST FLOAT32 1053859375
+_cal_tone_freq_0048 CONST FLOAT32 1055406250
+_cal_tone_freq_0049 CONST FLOAT32 1058562500
+_cal_tone_freq_0050 CONST FLOAT32 1060378906.25
+_cal_tone_freq_0051 CONST FLOAT32 1061703125
+_cal_tone_freq_0052 CONST FLOAT32 1064113281.25
+_cal_tone_freq_0053 CONST FLOAT32 1069503906.25
+_cal_tone_freq_0054 CONST FLOAT32 1070105468.75
+_cal_tone_freq_0055 CONST FLOAT32 1073039062.5
+_cal_tone_freq_0056 CONST FLOAT32 1076777343.75
+_cal_tone_freq_0057 CONST FLOAT32 1080921875
+_cal_tone_freq_0058 CONST FLOAT32 1083312500
+_cal_tone_freq_0059 CONST FLOAT32 1087703125
+_cal_tone_freq_0060 CONST FLOAT32 1088207031.25
+_cal_tone_freq_0061 CONST FLOAT32 1089085937.5
+_cal_tone_freq_0062 CONST FLOAT32 605863281.25
+_cal_tone_freq_0063 CONST FLOAT32 613824218.75
+_cal_tone_freq_0064 CONST FLOAT32 615816406.25
+_cal_tone_freq_0065 CONST FLOAT32 616253906.25
+_cal_tone_freq_0066 CONST FLOAT32 616476562.5
+_cal_tone_freq_0067 CONST FLOAT32 623519531.25
+_cal_tone_freq_0068 CONST FLOAT32 625777343.75
+_cal_tone_freq_0069 CONST FLOAT32 626546875
+_cal_tone_freq_0070 CONST FLOAT32 635433593.75
+_cal_tone_freq_0071 CONST FLOAT32 641191406.25
+_cal_tone_freq_0072 CONST FLOAT32 642984375
+_cal_tone_freq_0073 CONST FLOAT32 645429687.5
+_cal_tone_freq_0074 CONST FLOAT32 650503906.25
+_cal_tone_freq_0075 CONST FLOAT32 653023437.5
+_cal_tone_freq_0076 CONST FLOAT32 653960937.5
+_cal_tone_freq_0077 CONST FLOAT32 655523437.5
+_cal_tone_freq_0078 CONST FLOAT32 657300781.25
+_cal_tone_freq_0079 CONST FLOAT32 660855468.75
+_cal_tone_freq_0080 CONST FLOAT32 667531250
+_cal_tone_freq_0081 CONST FLOAT32 670007812.5
+_cal_tone_freq_0082 CONST FLOAT32 671195312.5
+_cal_tone_freq_0083 CONST FLOAT32 674796875
+_cal_tone_freq_0084 CONST FLOAT32 679339843.75
+_cal_tone_freq_0085 CONST FLOAT32 680968750
+_cal_tone_freq_0086 CONST FLOAT32 682996093.75
+_cal_tone_freq_0087 CONST FLOAT32 685425781.25
+_cal_tone_freq_0088 CONST FLOAT32 688437500
+_cal_tone_freq_0089 CONST FLOAT32 694292968.75
+_cal_tone_freq_0090 CONST FLOAT32 695464843.75
+_cal_tone_freq_0091 CONST FLOAT32 696957031.25
+_cal_tone_freq_0092 CONST FLOAT32 704523437.5
+_cal_tone_freq_0093 CONST FLOAT32 707429687.5
+_cal_tone_freq_0094 CONST FLOAT32 707429687.5
+_cal_tone_freq_0095 CONST FLOAT32 711230468.75
+_cal_tone_freq_0096 CONST FLOAT32 720468750
+_cal_tone_freq_0097 CONST FLOAT32 720968750
+_cal_tone_freq_0098 CONST FLOAT32 723988281.25
+_cal_tone_freq_0099 CONST FLOAT32 729140625
+_cal_tone_freq_0100 CONST FLOAT32 730718750
+_cal_tone_freq_0101 CONST FLOAT32 731816406.25
+_cal_tone_freq_0102 CONST FLOAT32 737953125
+_cal_tone_freq_0103 CONST FLOAT32 742847656.25
+_cal_tone_freq_0104 CONST FLOAT32 744390625
+_cal_tone_freq_0105 CONST FLOAT32 746617187.5
+_cal_tone_freq_0106 CONST FLOAT32 747898437.5
+_cal_tone_freq_0107 CONST FLOAT32 752945312.5
+_cal_tone_freq_0108 CONST FLOAT32 755074218.75
+_cal_tone_freq_0109 CONST FLOAT32 759906250
+_cal_tone_freq_0110 CONST FLOAT32 760667968.75
+_cal_tone_freq_0111 CONST FLOAT32 763652343.75
+_cal_tone_freq_0112 CONST FLOAT32 765203125
+_cal_tone_freq_0113 CONST FLOAT32 765203125
+_cal_tone_freq_0114 CONST FLOAT32 769625000
+_cal_tone_freq_0115 CONST FLOAT32 774246093.75
+_cal_tone_freq_0116 CONST FLOAT32 775015625
+_cal_tone_freq_0117 CONST FLOAT32 776214843.75
+_cal_tone_freq_0118 CONST FLOAT32 785843750
+_cal_tone_freq_0119 CONST FLOAT32 786468750
+_cal_tone_freq_0120 CONST FLOAT32 789847656.25
+_cal_tone_freq_0121 CONST FLOAT32 795140625
+_cal_tone_freq_0122 CONST FLOAT32 797332031.25
+_cal_tone_freq_0123 CONST FLOAT32 806058593.75
+_cal_tone_freq_0124 CONST FLOAT32 810152343.75
+_cal_tone_freq_0125 CONST FLOAT32 810777343.75
+_cal_tone_freq_0126 CONST FLOAT32 815160156.25
+_cal_tone_freq_0127 CONST FLOAT32 819398437.5
+_cal_tone_freq_0128 CONST FLOAT32 820136718.75
+_cal_tone_freq_0129 CONST FLOAT32 829179687.5
+_cal_tone_freq_0130 CONST FLOAT32 830105468.75
+_cal_tone_freq_0131 CONST FLOAT32 830953125
+_cal_tone_freq_0132 CONST FLOAT32 845996093.75
